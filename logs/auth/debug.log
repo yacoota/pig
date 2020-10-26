@@ -1,0 +1,892 @@
+2020-10-26 16:43:22,130 [background-preinit] INFO  [org.hibernate.validator.internal.util.Version] Version.java:21 - HV000001: Hibernate Validator 6.1.5.Final
+2020-10-26 16:43:23,600 [main] INFO  [c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor] EnableEncryptablePropertiesBeanFactoryPostProcessor.java:50 - Post-processing PropertySource instances
+2020-10-26 16:43:23,870 [main] INFO  [c.u.j.EncryptablePropertySourceConverter] EncryptablePropertySourceConverter.java:38 - Converting PropertySource configurationProperties [org.springframework.boot.context.properties.source.ConfigurationPropertySourcesPropertySource] to AOP Proxy
+2020-10-26 16:43:23,873 [main] INFO  [c.u.j.EncryptablePropertySourceConverter] EncryptablePropertySourceConverter.java:38 - Converting PropertySource bootstrap [org.springframework.core.env.MapPropertySource] to EncryptableMapPropertySourceWrapper
+2020-10-26 16:43:23,876 [main] INFO  [c.u.j.EncryptablePropertySourceConverter] EncryptablePropertySourceConverter.java:38 - Converting PropertySource systemProperties [org.springframework.core.env.PropertiesPropertySource] to EncryptableMapPropertySourceWrapper
+2020-10-26 16:43:23,876 [main] INFO  [c.u.j.EncryptablePropertySourceConverter] EncryptablePropertySourceConverter.java:38 - Converting PropertySource systemEnvironment [org.springframework.boot.env.SystemEnvironmentPropertySourceEnvironmentPostProcessor$OriginAwareSystemEnvironmentPropertySource] to EncryptableMapPropertySourceWrapper
+2020-10-26 16:43:23,879 [main] INFO  [c.u.j.EncryptablePropertySourceConverter] EncryptablePropertySourceConverter.java:38 - Converting PropertySource random [org.springframework.boot.env.RandomValuePropertySource] to EncryptablePropertySourceWrapper
+2020-10-26 16:43:23,879 [main] INFO  [c.u.j.EncryptablePropertySourceConverter] EncryptablePropertySourceConverter.java:38 - Converting PropertySource springCloudClientHostInfo [org.springframework.core.env.MapPropertySource] to EncryptableMapPropertySourceWrapper
+2020-10-26 16:43:23,880 [main] INFO  [c.u.j.EncryptablePropertySourceConverter] EncryptablePropertySourceConverter.java:38 - Converting PropertySource applicationConfig: [classpath:/bootstrap.yml] [org.springframework.boot.env.OriginTrackedMapPropertySource] to EncryptableMapPropertySourceWrapper
+2020-10-26 16:43:24,067 [main] INFO  [c.u.j.filter.DefaultLazyPropertyFilter] DefaultLazyPropertyFilter.java:31 - Property Filter custom Bean not found with name 'encryptablePropertyFilter'. Initializing Default Property Filter
+2020-10-26 16:43:24,077 [main] INFO  [c.u.j.resolver.DefaultLazyPropertyResolver] DefaultLazyPropertyResolver.java:31 - Property Resolver custom Bean not found with name 'encryptablePropertyResolver'. Initializing Default Property Resolver
+2020-10-26 16:43:24,081 [main] INFO  [c.u.j.detector.DefaultLazyPropertyDetector] DefaultLazyPropertyDetector.java:30 - Property Detector custom Bean not found with name 'encryptablePropertyDetector'. Initializing Default Property Detector
+2020-10-26 16:46:55,236 [background-preinit] INFO  [org.hibernate.validator.internal.util.Version] Version.java:21 - HV000001: Hibernate Validator 6.1.5.Final
+2020-10-26 16:46:56,501 [main] INFO  [c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor] EnableEncryptablePropertiesBeanFactoryPostProcessor.java:50 - Post-processing PropertySource instances
+2020-10-26 16:46:56,795 [main] INFO  [c.u.j.EncryptablePropertySourceConverter] EncryptablePropertySourceConverter.java:38 - Converting PropertySource configurationProperties [org.springframework.boot.context.properties.source.ConfigurationPropertySourcesPropertySource] to AOP Proxy
+2020-10-26 16:46:56,798 [main] INFO  [c.u.j.EncryptablePropertySourceConverter] EncryptablePropertySourceConverter.java:38 - Converting PropertySource bootstrap [org.springframework.core.env.MapPropertySource] to EncryptableMapPropertySourceWrapper
+2020-10-26 16:46:56,799 [main] INFO  [c.u.j.EncryptablePropertySourceConverter] EncryptablePropertySourceConverter.java:38 - Converting PropertySource systemProperties [org.springframework.core.env.PropertiesPropertySource] to EncryptableMapPropertySourceWrapper
+2020-10-26 16:46:56,799 [main] INFO  [c.u.j.EncryptablePropertySourceConverter] EncryptablePropertySourceConverter.java:38 - Converting PropertySource systemEnvironment [org.springframework.boot.env.SystemEnvironmentPropertySourceEnvironmentPostProcessor$OriginAwareSystemEnvironmentPropertySource] to EncryptableMapPropertySourceWrapper
+2020-10-26 16:46:56,801 [main] INFO  [c.u.j.EncryptablePropertySourceConverter] EncryptablePropertySourceConverter.java:38 - Converting PropertySource random [org.springframework.boot.env.RandomValuePropertySource] to EncryptablePropertySourceWrapper
+2020-10-26 16:46:56,802 [main] INFO  [c.u.j.EncryptablePropertySourceConverter] EncryptablePropertySourceConverter.java:38 - Converting PropertySource springCloudClientHostInfo [org.springframework.core.env.MapPropertySource] to EncryptableMapPropertySourceWrapper
+2020-10-26 16:46:56,802 [main] INFO  [c.u.j.EncryptablePropertySourceConverter] EncryptablePropertySourceConverter.java:38 - Converting PropertySource applicationConfig: [classpath:/bootstrap.yml] [org.springframework.boot.env.OriginTrackedMapPropertySource] to EncryptableMapPropertySourceWrapper
+2020-10-26 16:46:56,962 [main] INFO  [c.u.j.filter.DefaultLazyPropertyFilter] DefaultLazyPropertyFilter.java:31 - Property Filter custom Bean not found with name 'encryptablePropertyFilter'. Initializing Default Property Filter
+2020-10-26 16:46:56,975 [main] INFO  [c.u.j.resolver.DefaultLazyPropertyResolver] DefaultLazyPropertyResolver.java:31 - Property Resolver custom Bean not found with name 'encryptablePropertyResolver'. Initializing Default Property Resolver
+2020-10-26 16:46:56,978 [main] INFO  [c.u.j.detector.DefaultLazyPropertyDetector] DefaultLazyPropertyDetector.java:30 - Property Detector custom Bean not found with name 'encryptablePropertyDetector'. Initializing Default Property Detector
+2020-10-26 16:48:57,881 [background-preinit] INFO  [org.hibernate.validator.internal.util.Version] Version.java:21 - HV000001: Hibernate Validator 6.1.5.Final
+2020-10-26 16:48:58,855 [main] INFO  [c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor] EnableEncryptablePropertiesBeanFactoryPostProcessor.java:50 - Post-processing PropertySource instances
+2020-10-26 16:48:59,050 [main] INFO  [c.u.j.EncryptablePropertySourceConverter] EncryptablePropertySourceConverter.java:38 - Converting PropertySource configurationProperties [org.springframework.boot.context.properties.source.ConfigurationPropertySourcesPropertySource] to AOP Proxy
+2020-10-26 16:48:59,052 [main] INFO  [c.u.j.EncryptablePropertySourceConverter] EncryptablePropertySourceConverter.java:38 - Converting PropertySource bootstrap [org.springframework.core.env.MapPropertySource] to EncryptableMapPropertySourceWrapper
+2020-10-26 16:48:59,053 [main] INFO  [c.u.j.EncryptablePropertySourceConverter] EncryptablePropertySourceConverter.java:38 - Converting PropertySource systemProperties [org.springframework.core.env.PropertiesPropertySource] to EncryptableMapPropertySourceWrapper
+2020-10-26 16:48:59,053 [main] INFO  [c.u.j.EncryptablePropertySourceConverter] EncryptablePropertySourceConverter.java:38 - Converting PropertySource systemEnvironment [org.springframework.boot.env.SystemEnvironmentPropertySourceEnvironmentPostProcessor$OriginAwareSystemEnvironmentPropertySource] to EncryptableMapPropertySourceWrapper
+2020-10-26 16:48:59,055 [main] INFO  [c.u.j.EncryptablePropertySourceConverter] EncryptablePropertySourceConverter.java:38 - Converting PropertySource random [org.springframework.boot.env.RandomValuePropertySource] to EncryptablePropertySourceWrapper
+2020-10-26 16:48:59,056 [main] INFO  [c.u.j.EncryptablePropertySourceConverter] EncryptablePropertySourceConverter.java:38 - Converting PropertySource springCloudClientHostInfo [org.springframework.core.env.MapPropertySource] to EncryptableMapPropertySourceWrapper
+2020-10-26 16:48:59,057 [main] INFO  [c.u.j.EncryptablePropertySourceConverter] EncryptablePropertySourceConverter.java:38 - Converting PropertySource applicationConfig: [classpath:/bootstrap.yml] [org.springframework.boot.env.OriginTrackedMapPropertySource] to EncryptableMapPropertySourceWrapper
+2020-10-26 16:48:59,196 [main] INFO  [c.u.j.filter.DefaultLazyPropertyFilter] DefaultLazyPropertyFilter.java:31 - Property Filter custom Bean not found with name 'encryptablePropertyFilter'. Initializing Default Property Filter
+2020-10-26 16:48:59,203 [main] INFO  [c.u.j.resolver.DefaultLazyPropertyResolver] DefaultLazyPropertyResolver.java:31 - Property Resolver custom Bean not found with name 'encryptablePropertyResolver'. Initializing Default Property Resolver
+2020-10-26 16:48:59,206 [main] INFO  [c.u.j.detector.DefaultLazyPropertyDetector] DefaultLazyPropertyDetector.java:30 - Property Detector custom Bean not found with name 'encryptablePropertyDetector'. Initializing Default Property Detector
+2020-10-26 17:27:03,958 [background-preinit] INFO  [org.hibernate.validator.internal.util.Version] Version.java:21 - HV000001: Hibernate Validator 6.1.5.Final
+2020-10-26 17:27:05,916 [main] INFO  [c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor] EnableEncryptablePropertiesBeanFactoryPostProcessor.java:50 - Post-processing PropertySource instances
+2020-10-26 17:27:06,265 [main] INFO  [c.u.j.EncryptablePropertySourceConverter] EncryptablePropertySourceConverter.java:38 - Converting PropertySource configurationProperties [org.springframework.boot.context.properties.source.ConfigurationPropertySourcesPropertySource] to AOP Proxy
+2020-10-26 17:27:06,269 [main] INFO  [c.u.j.EncryptablePropertySourceConverter] EncryptablePropertySourceConverter.java:38 - Converting PropertySource bootstrap [org.springframework.core.env.MapPropertySource] to EncryptableMapPropertySourceWrapper
+2020-10-26 17:27:06,270 [main] INFO  [c.u.j.EncryptablePropertySourceConverter] EncryptablePropertySourceConverter.java:38 - Converting PropertySource systemProperties [org.springframework.core.env.PropertiesPropertySource] to EncryptableMapPropertySourceWrapper
+2020-10-26 17:27:06,270 [main] INFO  [c.u.j.EncryptablePropertySourceConverter] EncryptablePropertySourceConverter.java:38 - Converting PropertySource systemEnvironment [org.springframework.boot.env.SystemEnvironmentPropertySourceEnvironmentPostProcessor$OriginAwareSystemEnvironmentPropertySource] to EncryptableMapPropertySourceWrapper
+2020-10-26 17:27:06,274 [main] INFO  [c.u.j.EncryptablePropertySourceConverter] EncryptablePropertySourceConverter.java:38 - Converting PropertySource random [org.springframework.boot.env.RandomValuePropertySource] to EncryptablePropertySourceWrapper
+2020-10-26 17:27:06,274 [main] INFO  [c.u.j.EncryptablePropertySourceConverter] EncryptablePropertySourceConverter.java:38 - Converting PropertySource springCloudClientHostInfo [org.springframework.core.env.MapPropertySource] to EncryptableMapPropertySourceWrapper
+2020-10-26 17:27:06,275 [main] INFO  [c.u.j.EncryptablePropertySourceConverter] EncryptablePropertySourceConverter.java:38 - Converting PropertySource applicationConfig: [classpath:/bootstrap.yml] [org.springframework.boot.env.OriginTrackedMapPropertySource] to EncryptableMapPropertySourceWrapper
+2020-10-26 17:27:06,522 [main] INFO  [c.u.j.filter.DefaultLazyPropertyFilter] DefaultLazyPropertyFilter.java:31 - Property Filter custom Bean not found with name 'encryptablePropertyFilter'. Initializing Default Property Filter
+2020-10-26 17:27:06,538 [main] INFO  [c.u.j.resolver.DefaultLazyPropertyResolver] DefaultLazyPropertyResolver.java:31 - Property Resolver custom Bean not found with name 'encryptablePropertyResolver'. Initializing Default Property Resolver
+2020-10-26 17:27:06,543 [main] INFO  [c.u.j.detector.DefaultLazyPropertyDetector] DefaultLazyPropertyDetector.java:30 - Property Detector custom Bean not found with name 'encryptablePropertyDetector'. Initializing Default Property Detector
+2020-10-26 18:01:26,489 [background-preinit] INFO  [org.hibernate.validator.internal.util.Version] Version.java:21 - HV000001: Hibernate Validator 6.1.5.Final
+2020-10-26 18:01:28,067 [main] INFO  [c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor] EnableEncryptablePropertiesBeanFactoryPostProcessor.java:50 - Post-processing PropertySource instances
+2020-10-26 18:01:28,395 [main] INFO  [c.u.j.EncryptablePropertySourceConverter] EncryptablePropertySourceConverter.java:38 - Converting PropertySource configurationProperties [org.springframework.boot.context.properties.source.ConfigurationPropertySourcesPropertySource] to AOP Proxy
+2020-10-26 18:01:28,399 [main] INFO  [c.u.j.EncryptablePropertySourceConverter] EncryptablePropertySourceConverter.java:38 - Converting PropertySource bootstrap [org.springframework.core.env.MapPropertySource] to EncryptableMapPropertySourceWrapper
+2020-10-26 18:01:28,400 [main] INFO  [c.u.j.EncryptablePropertySourceConverter] EncryptablePropertySourceConverter.java:38 - Converting PropertySource systemProperties [org.springframework.core.env.PropertiesPropertySource] to EncryptableMapPropertySourceWrapper
+2020-10-26 18:01:28,400 [main] INFO  [c.u.j.EncryptablePropertySourceConverter] EncryptablePropertySourceConverter.java:38 - Converting PropertySource systemEnvironment [org.springframework.boot.env.SystemEnvironmentPropertySourceEnvironmentPostProcessor$OriginAwareSystemEnvironmentPropertySource] to EncryptableMapPropertySourceWrapper
+2020-10-26 18:01:28,402 [main] INFO  [c.u.j.EncryptablePropertySourceConverter] EncryptablePropertySourceConverter.java:38 - Converting PropertySource random [org.springframework.boot.env.RandomValuePropertySource] to EncryptablePropertySourceWrapper
+2020-10-26 18:01:28,403 [main] INFO  [c.u.j.EncryptablePropertySourceConverter] EncryptablePropertySourceConverter.java:38 - Converting PropertySource springCloudClientHostInfo [org.springframework.core.env.MapPropertySource] to EncryptableMapPropertySourceWrapper
+2020-10-26 18:01:28,404 [main] INFO  [c.u.j.EncryptablePropertySourceConverter] EncryptablePropertySourceConverter.java:38 - Converting PropertySource applicationConfig: [classpath:/bootstrap.yml] [org.springframework.boot.env.OriginTrackedMapPropertySource] to EncryptableMapPropertySourceWrapper
+2020-10-26 18:01:28,577 [main] INFO  [c.u.j.filter.DefaultLazyPropertyFilter] DefaultLazyPropertyFilter.java:31 - Property Filter custom Bean not found with name 'encryptablePropertyFilter'. Initializing Default Property Filter
+2020-10-26 18:01:28,589 [main] INFO  [c.u.j.resolver.DefaultLazyPropertyResolver] DefaultLazyPropertyResolver.java:31 - Property Resolver custom Bean not found with name 'encryptablePropertyResolver'. Initializing Default Property Resolver
+2020-10-26 18:01:28,592 [main] INFO  [c.u.j.detector.DefaultLazyPropertyDetector] DefaultLazyPropertyDetector.java:30 - Property Detector custom Bean not found with name 'encryptablePropertyDetector'. Initializing Default Property Detector
+2020-10-26 18:03:55,558 [background-preinit] INFO  [org.hibernate.validator.internal.util.Version] Version.java:21 - HV000001: Hibernate Validator 6.1.5.Final
+2020-10-26 18:03:56,668 [main] INFO  [c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor] EnableEncryptablePropertiesBeanFactoryPostProcessor.java:50 - Post-processing PropertySource instances
+2020-10-26 18:03:56,929 [main] INFO  [c.u.j.EncryptablePropertySourceConverter] EncryptablePropertySourceConverter.java:38 - Converting PropertySource configurationProperties [org.springframework.boot.context.properties.source.ConfigurationPropertySourcesPropertySource] to AOP Proxy
+2020-10-26 18:03:56,932 [main] INFO  [c.u.j.EncryptablePropertySourceConverter] EncryptablePropertySourceConverter.java:38 - Converting PropertySource bootstrap [org.springframework.core.env.MapPropertySource] to EncryptableMapPropertySourceWrapper
+2020-10-26 18:03:56,933 [main] INFO  [c.u.j.EncryptablePropertySourceConverter] EncryptablePropertySourceConverter.java:38 - Converting PropertySource systemProperties [org.springframework.core.env.PropertiesPropertySource] to EncryptableMapPropertySourceWrapper
+2020-10-26 18:03:56,933 [main] INFO  [c.u.j.EncryptablePropertySourceConverter] EncryptablePropertySourceConverter.java:38 - Converting PropertySource systemEnvironment [org.springframework.boot.env.SystemEnvironmentPropertySourceEnvironmentPostProcessor$OriginAwareSystemEnvironmentPropertySource] to EncryptableMapPropertySourceWrapper
+2020-10-26 18:03:56,935 [main] INFO  [c.u.j.EncryptablePropertySourceConverter] EncryptablePropertySourceConverter.java:38 - Converting PropertySource random [org.springframework.boot.env.RandomValuePropertySource] to EncryptablePropertySourceWrapper
+2020-10-26 18:03:56,936 [main] INFO  [c.u.j.EncryptablePropertySourceConverter] EncryptablePropertySourceConverter.java:38 - Converting PropertySource springCloudClientHostInfo [org.springframework.core.env.MapPropertySource] to EncryptableMapPropertySourceWrapper
+2020-10-26 18:03:56,936 [main] INFO  [c.u.j.EncryptablePropertySourceConverter] EncryptablePropertySourceConverter.java:38 - Converting PropertySource applicationConfig: [classpath:/bootstrap.yml] [org.springframework.boot.env.OriginTrackedMapPropertySource] to EncryptableMapPropertySourceWrapper
+2020-10-26 18:03:57,093 [main] INFO  [c.u.j.filter.DefaultLazyPropertyFilter] DefaultLazyPropertyFilter.java:31 - Property Filter custom Bean not found with name 'encryptablePropertyFilter'. Initializing Default Property Filter
+2020-10-26 18:03:57,103 [main] INFO  [c.u.j.resolver.DefaultLazyPropertyResolver] DefaultLazyPropertyResolver.java:31 - Property Resolver custom Bean not found with name 'encryptablePropertyResolver'. Initializing Default Property Resolver
+2020-10-26 18:03:57,107 [main] INFO  [c.u.j.detector.DefaultLazyPropertyDetector] DefaultLazyPropertyDetector.java:30 - Property Detector custom Bean not found with name 'encryptablePropertyDetector'. Initializing Default Property Detector
+2020-10-26 18:07:29,539 [background-preinit] INFO  [org.hibernate.validator.internal.util.Version] Version.java:21 - HV000001: Hibernate Validator 6.1.5.Final
+2020-10-26 18:07:30,624 [main] INFO  [c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor] EnableEncryptablePropertiesBeanFactoryPostProcessor.java:50 - Post-processing PropertySource instances
+2020-10-26 18:07:30,855 [main] INFO  [c.u.j.EncryptablePropertySourceConverter] EncryptablePropertySourceConverter.java:38 - Converting PropertySource configurationProperties [org.springframework.boot.context.properties.source.ConfigurationPropertySourcesPropertySource] to AOP Proxy
+2020-10-26 18:07:30,858 [main] INFO  [c.u.j.EncryptablePropertySourceConverter] EncryptablePropertySourceConverter.java:38 - Converting PropertySource bootstrap [org.springframework.core.env.MapPropertySource] to EncryptableMapPropertySourceWrapper
+2020-10-26 18:07:30,859 [main] INFO  [c.u.j.EncryptablePropertySourceConverter] EncryptablePropertySourceConverter.java:38 - Converting PropertySource systemProperties [org.springframework.core.env.PropertiesPropertySource] to EncryptableMapPropertySourceWrapper
+2020-10-26 18:07:30,859 [main] INFO  [c.u.j.EncryptablePropertySourceConverter] EncryptablePropertySourceConverter.java:38 - Converting PropertySource systemEnvironment [org.springframework.boot.env.SystemEnvironmentPropertySourceEnvironmentPostProcessor$OriginAwareSystemEnvironmentPropertySource] to EncryptableMapPropertySourceWrapper
+2020-10-26 18:07:30,861 [main] INFO  [c.u.j.EncryptablePropertySourceConverter] EncryptablePropertySourceConverter.java:38 - Converting PropertySource random [org.springframework.boot.env.RandomValuePropertySource] to EncryptablePropertySourceWrapper
+2020-10-26 18:07:30,861 [main] INFO  [c.u.j.EncryptablePropertySourceConverter] EncryptablePropertySourceConverter.java:38 - Converting PropertySource springCloudClientHostInfo [org.springframework.core.env.MapPropertySource] to EncryptableMapPropertySourceWrapper
+2020-10-26 18:07:30,862 [main] INFO  [c.u.j.EncryptablePropertySourceConverter] EncryptablePropertySourceConverter.java:38 - Converting PropertySource applicationConfig: [classpath:/bootstrap.yml] [org.springframework.boot.env.OriginTrackedMapPropertySource] to EncryptableMapPropertySourceWrapper
+2020-10-26 18:07:31,024 [main] INFO  [c.u.j.filter.DefaultLazyPropertyFilter] DefaultLazyPropertyFilter.java:31 - Property Filter custom Bean not found with name 'encryptablePropertyFilter'. Initializing Default Property Filter
+2020-10-26 18:07:31,035 [main] INFO  [c.u.j.resolver.DefaultLazyPropertyResolver] DefaultLazyPropertyResolver.java:31 - Property Resolver custom Bean not found with name 'encryptablePropertyResolver'. Initializing Default Property Resolver
+2020-10-26 18:07:31,038 [main] INFO  [c.u.j.detector.DefaultLazyPropertyDetector] DefaultLazyPropertyDetector.java:30 - Property Detector custom Bean not found with name 'encryptablePropertyDetector'. Initializing Default Property Detector
+2020-10-26 18:10:19,593 [background-preinit] INFO  [org.hibernate.validator.internal.util.Version] Version.java:21 - HV000001: Hibernate Validator 6.1.5.Final
+2020-10-26 18:10:21,125 [main] INFO  [c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor] EnableEncryptablePropertiesBeanFactoryPostProcessor.java:50 - Post-processing PropertySource instances
+2020-10-26 18:10:21,433 [main] INFO  [c.u.j.EncryptablePropertySourceConverter] EncryptablePropertySourceConverter.java:38 - Converting PropertySource configurationProperties [org.springframework.boot.context.properties.source.ConfigurationPropertySourcesPropertySource] to AOP Proxy
+2020-10-26 18:10:21,437 [main] INFO  [c.u.j.EncryptablePropertySourceConverter] EncryptablePropertySourceConverter.java:38 - Converting PropertySource bootstrap [org.springframework.core.env.MapPropertySource] to EncryptableMapPropertySourceWrapper
+2020-10-26 18:10:21,438 [main] INFO  [c.u.j.EncryptablePropertySourceConverter] EncryptablePropertySourceConverter.java:38 - Converting PropertySource systemProperties [org.springframework.core.env.PropertiesPropertySource] to EncryptableMapPropertySourceWrapper
+2020-10-26 18:10:21,439 [main] INFO  [c.u.j.EncryptablePropertySourceConverter] EncryptablePropertySourceConverter.java:38 - Converting PropertySource systemEnvironment [org.springframework.boot.env.SystemEnvironmentPropertySourceEnvironmentPostProcessor$OriginAwareSystemEnvironmentPropertySource] to EncryptableMapPropertySourceWrapper
+2020-10-26 18:10:21,442 [main] INFO  [c.u.j.EncryptablePropertySourceConverter] EncryptablePropertySourceConverter.java:38 - Converting PropertySource random [org.springframework.boot.env.RandomValuePropertySource] to EncryptablePropertySourceWrapper
+2020-10-26 18:10:21,443 [main] INFO  [c.u.j.EncryptablePropertySourceConverter] EncryptablePropertySourceConverter.java:38 - Converting PropertySource springCloudClientHostInfo [org.springframework.core.env.MapPropertySource] to EncryptableMapPropertySourceWrapper
+2020-10-26 18:10:21,444 [main] INFO  [c.u.j.EncryptablePropertySourceConverter] EncryptablePropertySourceConverter.java:38 - Converting PropertySource applicationConfig: [classpath:/bootstrap.yml] [org.springframework.boot.env.OriginTrackedMapPropertySource] to EncryptableMapPropertySourceWrapper
+2020-10-26 18:10:21,655 [main] INFO  [c.u.j.filter.DefaultLazyPropertyFilter] DefaultLazyPropertyFilter.java:31 - Property Filter custom Bean not found with name 'encryptablePropertyFilter'. Initializing Default Property Filter
+2020-10-26 18:10:21,673 [main] INFO  [c.u.j.resolver.DefaultLazyPropertyResolver] DefaultLazyPropertyResolver.java:31 - Property Resolver custom Bean not found with name 'encryptablePropertyResolver'. Initializing Default Property Resolver
+2020-10-26 18:10:21,677 [main] INFO  [c.u.j.detector.DefaultLazyPropertyDetector] DefaultLazyPropertyDetector.java:30 - Property Detector custom Bean not found with name 'encryptablePropertyDetector'. Initializing Default Property Detector
+2020-10-26 20:37:47,505 [background-preinit] INFO  [org.hibernate.validator.internal.util.Version] Version.java:21 - HV000001: Hibernate Validator 6.1.5.Final
+2020-10-26 20:37:49,518 [main] INFO  [c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor] EnableEncryptablePropertiesBeanFactoryPostProcessor.java:50 - Post-processing PropertySource instances
+2020-10-26 20:37:49,851 [main] INFO  [c.u.j.EncryptablePropertySourceConverter] EncryptablePropertySourceConverter.java:38 - Converting PropertySource configurationProperties [org.springframework.boot.context.properties.source.ConfigurationPropertySourcesPropertySource] to AOP Proxy
+2020-10-26 20:37:49,858 [main] INFO  [c.u.j.EncryptablePropertySourceConverter] EncryptablePropertySourceConverter.java:38 - Converting PropertySource bootstrap [org.springframework.core.env.MapPropertySource] to EncryptableMapPropertySourceWrapper
+2020-10-26 20:37:49,859 [main] INFO  [c.u.j.EncryptablePropertySourceConverter] EncryptablePropertySourceConverter.java:38 - Converting PropertySource systemProperties [org.springframework.core.env.PropertiesPropertySource] to EncryptableMapPropertySourceWrapper
+2020-10-26 20:37:49,860 [main] INFO  [c.u.j.EncryptablePropertySourceConverter] EncryptablePropertySourceConverter.java:38 - Converting PropertySource systemEnvironment [org.springframework.boot.env.SystemEnvironmentPropertySourceEnvironmentPostProcessor$OriginAwareSystemEnvironmentPropertySource] to EncryptableMapPropertySourceWrapper
+2020-10-26 20:37:49,864 [main] INFO  [c.u.j.EncryptablePropertySourceConverter] EncryptablePropertySourceConverter.java:38 - Converting PropertySource random [org.springframework.boot.env.RandomValuePropertySource] to EncryptablePropertySourceWrapper
+2020-10-26 20:37:49,865 [main] INFO  [c.u.j.EncryptablePropertySourceConverter] EncryptablePropertySourceConverter.java:38 - Converting PropertySource springCloudClientHostInfo [org.springframework.core.env.MapPropertySource] to EncryptableMapPropertySourceWrapper
+2020-10-26 20:37:49,866 [main] INFO  [c.u.j.EncryptablePropertySourceConverter] EncryptablePropertySourceConverter.java:38 - Converting PropertySource applicationConfig: [classpath:/bootstrap.yml] [org.springframework.boot.env.OriginTrackedMapPropertySource] to EncryptableMapPropertySourceWrapper
+2020-10-26 20:37:50,133 [main] INFO  [c.u.j.filter.DefaultLazyPropertyFilter] DefaultLazyPropertyFilter.java:31 - Property Filter custom Bean not found with name 'encryptablePropertyFilter'. Initializing Default Property Filter
+2020-10-26 20:37:50,147 [main] INFO  [c.u.j.resolver.DefaultLazyPropertyResolver] DefaultLazyPropertyResolver.java:31 - Property Resolver custom Bean not found with name 'encryptablePropertyResolver'. Initializing Default Property Resolver
+2020-10-26 20:37:50,153 [main] INFO  [c.u.j.detector.DefaultLazyPropertyDetector] DefaultLazyPropertyDetector.java:30 - Property Detector custom Bean not found with name 'encryptablePropertyDetector'. Initializing Default Property Detector
+2020-10-26 20:42:41,483 [background-preinit] INFO  [org.hibernate.validator.internal.util.Version] Version.java:21 - HV000001: Hibernate Validator 6.1.5.Final
+2020-10-26 20:42:42,417 [main] INFO  [c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor] EnableEncryptablePropertiesBeanFactoryPostProcessor.java:50 - Post-processing PropertySource instances
+2020-10-26 20:42:42,597 [main] INFO  [c.u.j.EncryptablePropertySourceConverter] EncryptablePropertySourceConverter.java:38 - Converting PropertySource configurationProperties [org.springframework.boot.context.properties.source.ConfigurationPropertySourcesPropertySource] to AOP Proxy
+2020-10-26 20:42:42,599 [main] INFO  [c.u.j.EncryptablePropertySourceConverter] EncryptablePropertySourceConverter.java:38 - Converting PropertySource bootstrap [org.springframework.core.env.MapPropertySource] to EncryptableMapPropertySourceWrapper
+2020-10-26 20:42:42,600 [main] INFO  [c.u.j.EncryptablePropertySourceConverter] EncryptablePropertySourceConverter.java:38 - Converting PropertySource systemProperties [org.springframework.core.env.PropertiesPropertySource] to EncryptableMapPropertySourceWrapper
+2020-10-26 20:42:42,600 [main] INFO  [c.u.j.EncryptablePropertySourceConverter] EncryptablePropertySourceConverter.java:38 - Converting PropertySource systemEnvironment [org.springframework.boot.env.SystemEnvironmentPropertySourceEnvironmentPostProcessor$OriginAwareSystemEnvironmentPropertySource] to EncryptableMapPropertySourceWrapper
+2020-10-26 20:42:42,602 [main] INFO  [c.u.j.EncryptablePropertySourceConverter] EncryptablePropertySourceConverter.java:38 - Converting PropertySource random [org.springframework.boot.env.RandomValuePropertySource] to EncryptablePropertySourceWrapper
+2020-10-26 20:42:42,602 [main] INFO  [c.u.j.EncryptablePropertySourceConverter] EncryptablePropertySourceConverter.java:38 - Converting PropertySource springCloudClientHostInfo [org.springframework.core.env.MapPropertySource] to EncryptableMapPropertySourceWrapper
+2020-10-26 20:42:42,602 [main] INFO  [c.u.j.EncryptablePropertySourceConverter] EncryptablePropertySourceConverter.java:38 - Converting PropertySource applicationConfig: [classpath:/bootstrap.yml] [org.springframework.boot.env.OriginTrackedMapPropertySource] to EncryptableMapPropertySourceWrapper
+2020-10-26 20:42:42,723 [main] INFO  [c.u.j.filter.DefaultLazyPropertyFilter] DefaultLazyPropertyFilter.java:31 - Property Filter custom Bean not found with name 'encryptablePropertyFilter'. Initializing Default Property Filter
+2020-10-26 20:42:42,733 [main] INFO  [c.u.j.resolver.DefaultLazyPropertyResolver] DefaultLazyPropertyResolver.java:31 - Property Resolver custom Bean not found with name 'encryptablePropertyResolver'. Initializing Default Property Resolver
+2020-10-26 20:42:42,737 [main] INFO  [c.u.j.detector.DefaultLazyPropertyDetector] DefaultLazyPropertyDetector.java:30 - Property Detector custom Bean not found with name 'encryptablePropertyDetector'. Initializing Default Property Detector
+2020-10-26 20:46:04,870 [background-preinit] INFO  [org.hibernate.validator.internal.util.Version] Version.java:21 - HV000001: Hibernate Validator 6.1.5.Final
+2020-10-26 20:46:06,872 [main] INFO  [c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor] EnableEncryptablePropertiesBeanFactoryPostProcessor.java:50 - Post-processing PropertySource instances
+2020-10-26 20:46:07,168 [main] INFO  [c.u.j.EncryptablePropertySourceConverter] EncryptablePropertySourceConverter.java:38 - Converting PropertySource configurationProperties [org.springframework.boot.context.properties.source.ConfigurationPropertySourcesPropertySource] to AOP Proxy
+2020-10-26 20:46:07,170 [main] INFO  [c.u.j.EncryptablePropertySourceConverter] EncryptablePropertySourceConverter.java:38 - Converting PropertySource bootstrap [org.springframework.core.env.MapPropertySource] to EncryptableMapPropertySourceWrapper
+2020-10-26 20:46:07,171 [main] INFO  [c.u.j.EncryptablePropertySourceConverter] EncryptablePropertySourceConverter.java:38 - Converting PropertySource systemProperties [org.springframework.core.env.PropertiesPropertySource] to EncryptableMapPropertySourceWrapper
+2020-10-26 20:46:07,172 [main] INFO  [c.u.j.EncryptablePropertySourceConverter] EncryptablePropertySourceConverter.java:38 - Converting PropertySource systemEnvironment [org.springframework.boot.env.SystemEnvironmentPropertySourceEnvironmentPostProcessor$OriginAwareSystemEnvironmentPropertySource] to EncryptableMapPropertySourceWrapper
+2020-10-26 20:46:07,174 [main] INFO  [c.u.j.EncryptablePropertySourceConverter] EncryptablePropertySourceConverter.java:38 - Converting PropertySource random [org.springframework.boot.env.RandomValuePropertySource] to EncryptablePropertySourceWrapper
+2020-10-26 20:46:07,175 [main] INFO  [c.u.j.EncryptablePropertySourceConverter] EncryptablePropertySourceConverter.java:38 - Converting PropertySource springCloudClientHostInfo [org.springframework.core.env.MapPropertySource] to EncryptableMapPropertySourceWrapper
+2020-10-26 20:46:07,175 [main] INFO  [c.u.j.EncryptablePropertySourceConverter] EncryptablePropertySourceConverter.java:38 - Converting PropertySource applicationConfig: [classpath:/bootstrap.yml] [org.springframework.boot.env.OriginTrackedMapPropertySource] to EncryptableMapPropertySourceWrapper
+2020-10-26 20:46:07,339 [main] INFO  [c.u.j.filter.DefaultLazyPropertyFilter] DefaultLazyPropertyFilter.java:31 - Property Filter custom Bean not found with name 'encryptablePropertyFilter'. Initializing Default Property Filter
+2020-10-26 20:46:07,350 [main] INFO  [c.u.j.resolver.DefaultLazyPropertyResolver] DefaultLazyPropertyResolver.java:31 - Property Resolver custom Bean not found with name 'encryptablePropertyResolver'. Initializing Default Property Resolver
+2020-10-26 20:46:07,354 [main] INFO  [c.u.j.detector.DefaultLazyPropertyDetector] DefaultLazyPropertyDetector.java:30 - Property Detector custom Bean not found with name 'encryptablePropertyDetector'. Initializing Default Property Detector
+2020-10-26 20:46:58,037 [background-preinit] INFO  [org.hibernate.validator.internal.util.Version] Version.java:21 - HV000001: Hibernate Validator 6.1.5.Final
+2020-10-26 20:46:59,463 [main] INFO  [c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor] EnableEncryptablePropertiesBeanFactoryPostProcessor.java:50 - Post-processing PropertySource instances
+2020-10-26 20:46:59,737 [main] INFO  [c.u.j.EncryptablePropertySourceConverter] EncryptablePropertySourceConverter.java:38 - Converting PropertySource configurationProperties [org.springframework.boot.context.properties.source.ConfigurationPropertySourcesPropertySource] to AOP Proxy
+2020-10-26 20:46:59,740 [main] INFO  [c.u.j.EncryptablePropertySourceConverter] EncryptablePropertySourceConverter.java:38 - Converting PropertySource bootstrap [org.springframework.core.env.MapPropertySource] to EncryptableMapPropertySourceWrapper
+2020-10-26 20:46:59,741 [main] INFO  [c.u.j.EncryptablePropertySourceConverter] EncryptablePropertySourceConverter.java:38 - Converting PropertySource systemProperties [org.springframework.core.env.PropertiesPropertySource] to EncryptableMapPropertySourceWrapper
+2020-10-26 20:46:59,742 [main] INFO  [c.u.j.EncryptablePropertySourceConverter] EncryptablePropertySourceConverter.java:38 - Converting PropertySource systemEnvironment [org.springframework.boot.env.SystemEnvironmentPropertySourceEnvironmentPostProcessor$OriginAwareSystemEnvironmentPropertySource] to EncryptableMapPropertySourceWrapper
+2020-10-26 20:46:59,744 [main] INFO  [c.u.j.EncryptablePropertySourceConverter] EncryptablePropertySourceConverter.java:38 - Converting PropertySource random [org.springframework.boot.env.RandomValuePropertySource] to EncryptablePropertySourceWrapper
+2020-10-26 20:46:59,745 [main] INFO  [c.u.j.EncryptablePropertySourceConverter] EncryptablePropertySourceConverter.java:38 - Converting PropertySource springCloudClientHostInfo [org.springframework.core.env.MapPropertySource] to EncryptableMapPropertySourceWrapper
+2020-10-26 20:46:59,746 [main] INFO  [c.u.j.EncryptablePropertySourceConverter] EncryptablePropertySourceConverter.java:38 - Converting PropertySource applicationConfig: [classpath:/bootstrap.yml] [org.springframework.boot.env.OriginTrackedMapPropertySource] to EncryptableMapPropertySourceWrapper
+2020-10-26 20:46:59,937 [main] INFO  [c.u.j.filter.DefaultLazyPropertyFilter] DefaultLazyPropertyFilter.java:31 - Property Filter custom Bean not found with name 'encryptablePropertyFilter'. Initializing Default Property Filter
+2020-10-26 20:46:59,948 [main] INFO  [c.u.j.resolver.DefaultLazyPropertyResolver] DefaultLazyPropertyResolver.java:31 - Property Resolver custom Bean not found with name 'encryptablePropertyResolver'. Initializing Default Property Resolver
+2020-10-26 20:46:59,952 [main] INFO  [c.u.j.detector.DefaultLazyPropertyDetector] DefaultLazyPropertyDetector.java:30 - Property Detector custom Bean not found with name 'encryptablePropertyDetector'. Initializing Default Property Detector
+2020-10-26 20:47:55,636 [main] DEBUG [o.s.b.c.l.ClasspathLoggingApplicationListener] ClasspathLoggingApplicationListener.java:51 - Application started with classpath: [file:/C:/Users/OvO/AppData/Local/Temp/classpath1379991422.jar, file:/C:/Users/OvO/AppData/Local/JetBrains/IntelliJIdea2020.1/groovyHotSwap/gragent.jar, file:/C:/Users/OvO/AppData/Local/JetBrains/IntelliJIdea2020.1/captureAgent/debugger-agent.jar]
+2020-10-26 20:47:55,648 [main] DEBUG [c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor] EnableEncryptablePropertiesBeanFactoryPostProcessor.java:64 - Application Event Raised: ApplicationEnvironmentPreparedEvent
+2020-10-26 20:47:55,893 [background-preinit] DEBUG [org.jboss.logging] LoggerProviders.java:152 - Logging Provider: org.jboss.logging.Log4j2LoggerProvider
+2020-10-26 20:47:55,895 [background-preinit] INFO  [org.hibernate.validator.internal.util.Version] Version.java:21 - HV000001: Hibernate Validator 6.1.5.Final
+2020-10-26 20:47:55,939 [main] DEBUG [o.s.core.env.PropertySourcesPropertyResolver] PropertySourcesPropertyResolver.java:115 - Found key 'spring.application.name' in PropertySource 'configurationProperties' with value of type String
+2020-10-26 20:47:55,946 [background-preinit] DEBUG [o.h.v.internal.xml.config.ValidationXmlParser] ValidationXmlParser.java:120 - Trying to load META-INF/validation.xml for XML based Validator configuration.
+2020-10-26 20:47:55,956 [background-preinit] DEBUG [o.h.v.internal.xml.config.ResourceLoaderHelper] ResourceLoaderHelper.java:60 - Trying to load META-INF/validation.xml via TCCL
+2020-10-26 20:47:55,957 [main] DEBUG [c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor] EnableEncryptablePropertiesBeanFactoryPostProcessor.java:64 - Application Event Raised: ApplicationContextInitializedEvent
+2020-10-26 20:47:55,958 [main] DEBUG [org.springframework.boot.SpringApplication] SpringApplication.java:679 - Loading source class org.springframework.cloud.bootstrap.BootstrapImportSelectorConfiguration
+2020-10-26 20:47:55,959 [background-preinit] DEBUG [o.h.v.internal.xml.config.ResourceLoaderHelper] ResourceLoaderHelper.java:66 - Trying to load META-INF/validation.xml via Hibernate Validator's class loader
+2020-10-26 20:47:55,961 [background-preinit] DEBUG [o.h.v.internal.xml.config.ValidationXmlParser] ValidationXmlParser.java:127 - No META-INF/validation.xml found. Using annotation based configuration only.
+2020-10-26 20:47:55,987 [background-preinit] DEBUG [o.h.v.i.engine.resolver.TraversableResolvers] TraversableResolvers.java:60 - Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+2020-10-26 20:47:56,070 [main] DEBUG [o.s.b.context.config.ConfigFileApplicationListener] DeferredLog.java:222 - Activated activeProfiles dev
+2020-10-26 20:47:56,070 [main] DEBUG [o.s.b.context.config.ConfigFileApplicationListener] DeferredLog.java:222 - Loaded config file 'file:/T:/workspace/github/project/github.pig/X/pig/pig-auth/out/production/resources/bootstrap.yml' (classpath:/bootstrap.yml)
+2020-10-26 20:47:56,073 [main] DEBUG [c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor] EnableEncryptablePropertiesBeanFactoryPostProcessor.java:64 - Application Event Raised: ApplicationPreparedEvent
+2020-10-26 20:47:56,073 [main] DEBUG [o.s.c.a.AnnotationConfigApplicationContext] AbstractApplicationContext.java:596 - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@bcec031
+2020-10-26 20:47:56,119 [background-preinit] DEBUG [o.h.v.m.ResourceBundleMessageInterpolator] ResourceBundleMessageInterpolator.java:172 - Loaded expression factory via original TCCL
+2020-10-26 20:47:56,142 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] DefaultSingletonBeanRegistry.java:225 - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor'
+2020-10-26 20:47:56,209 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] DefaultSingletonBeanRegistry.java:225 - Creating shared instance of singleton bean 'org.springframework.boot.autoconfigure.internalCachingMetadataReaderFactory'
+2020-10-26 20:47:56,932 [background-preinit] DEBUG [o.h.v.i.engine.ValidatorFactoryConfigurationHelper] ValidatorFactoryConfigurationHelper.java:300 - HV000252: Using org.hibernate.validator.internal.engine.DefaultPropertyNodeNameProvider as property node name provider.
+2020-10-26 20:47:56,962 [background-preinit] DEBUG [o.h.v.i.engine.ValidatorFactoryConfigurationHelper] ValidatorFactoryConfigurationHelper.java:375 - HV000234: Using org.hibernate.validator.messageinterpolation.ResourceBundleMessageInterpolator as ValidatorFactory-scoped message interpolator.
+2020-10-26 20:47:56,973 [background-preinit] DEBUG [o.h.v.i.engine.ValidatorFactoryConfigurationHelper] ValidatorFactoryConfigurationHelper.java:376 - HV000234: Using org.hibernate.validator.internal.engine.resolver.TraverseAllTraversableResolver as ValidatorFactory-scoped traversable resolver.
+2020-10-26 20:47:56,973 [background-preinit] DEBUG [o.h.v.i.engine.ValidatorFactoryConfigurationHelper] ValidatorFactoryConfigurationHelper.java:377 - HV000234: Using org.hibernate.validator.internal.util.ExecutableParameterNameProvider as ValidatorFactory-scoped parameter name provider.
+2020-10-26 20:47:56,974 [background-preinit] DEBUG [o.h.v.i.engine.ValidatorFactoryConfigurationHelper] ValidatorFactoryConfigurationHelper.java:378 - HV000234: Using org.hibernate.validator.internal.engine.DefaultClockProvider as ValidatorFactory-scoped clock provider.
+2020-10-26 20:47:56,974 [background-preinit] DEBUG [o.h.v.i.engine.ValidatorFactoryConfigurationHelper] ValidatorFactoryConfigurationHelper.java:379 - HV000234: Using org.hibernate.validator.internal.engine.scripting.DefaultScriptEvaluatorFactory as ValidatorFactory-scoped script evaluator factory.
+2020-10-26 20:47:57,045 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] DefaultSingletonBeanRegistry.java:225 - Creating shared instance of singleton bean 'propertySourcesPlaceholderConfigurer'
+2020-10-26 20:47:57,059 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] DefaultSingletonBeanRegistry.java:225 - Creating shared instance of singleton bean 'enableEncryptablePropertySourcesPostProcessor'
+2020-10-26 20:47:57,082 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] ConstructorResolver.java:805 - Autowiring by type from bean name 'enableEncryptablePropertySourcesPostProcessor' via factory method to bean named 'environment'
+2020-10-26 20:47:57,083 [main] INFO  [c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor] EnableEncryptablePropertiesBeanFactoryPostProcessor.java:50 - Post-processing PropertySource instances
+2020-10-26 20:47:57,084 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] DefaultSingletonBeanRegistry.java:225 - Creating shared instance of singleton bean 'lazyEncryptablePropertyResolver'
+2020-10-26 20:47:57,084 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] DefaultSingletonBeanRegistry.java:225 - Creating shared instance of singleton bean 'com.ulisesbocchio.jasyptspringboot.configuration.EncryptablePropertyResolverConfiguration'
+2020-10-26 20:47:57,092 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] DefaultSingletonBeanRegistry.java:225 - Creating shared instance of singleton bean 'lazyEncryptablePropertyDetector'
+2020-10-26 20:47:57,093 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] DefaultSingletonBeanRegistry.java:225 - Creating shared instance of singleton bean 'envCopy'
+2020-10-26 20:47:57,094 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] ConstructorResolver.java:805 - Autowiring by type from bean name 'envCopy' via factory method to bean named 'environment'
+2020-10-26 20:47:57,132 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] ConstructorResolver.java:805 - Autowiring by type from bean name 'lazyEncryptablePropertyDetector' via factory method to bean named 'envCopy'
+2020-10-26 20:47:57,133 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] ConstructorResolver.java:805 - Autowiring by type from bean name 'lazyEncryptablePropertyDetector' via factory method to bean named 'org.springframework.beans.factory.support.DefaultListableBeanFactory@158d255c'
+2020-10-26 20:47:57,137 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] DefaultSingletonBeanRegistry.java:225 - Creating shared instance of singleton bean 'lazyJasyptStringEncryptor'
+2020-10-26 20:47:57,138 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] ConstructorResolver.java:805 - Autowiring by type from bean name 'lazyJasyptStringEncryptor' via factory method to bean named 'envCopy'
+2020-10-26 20:47:57,138 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] ConstructorResolver.java:805 - Autowiring by type from bean name 'lazyJasyptStringEncryptor' via factory method to bean named 'org.springframework.beans.factory.support.DefaultListableBeanFactory@158d255c'
+2020-10-26 20:47:57,142 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] ConstructorResolver.java:805 - Autowiring by type from bean name 'lazyEncryptablePropertyResolver' via factory method to bean named 'lazyEncryptablePropertyDetector'
+2020-10-26 20:47:57,142 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] ConstructorResolver.java:805 - Autowiring by type from bean name 'lazyEncryptablePropertyResolver' via factory method to bean named 'lazyJasyptStringEncryptor'
+2020-10-26 20:47:57,142 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] ConstructorResolver.java:805 - Autowiring by type from bean name 'lazyEncryptablePropertyResolver' via factory method to bean named 'org.springframework.beans.factory.support.DefaultListableBeanFactory@158d255c'
+2020-10-26 20:47:57,143 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] ConstructorResolver.java:805 - Autowiring by type from bean name 'lazyEncryptablePropertyResolver' via factory method to bean named 'envCopy'
+2020-10-26 20:47:57,146 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] DefaultSingletonBeanRegistry.java:225 - Creating shared instance of singleton bean 'lazyEncryptablePropertyFilter'
+2020-10-26 20:47:57,148 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] DefaultSingletonBeanRegistry.java:225 - Creating shared instance of singleton bean 'configPropsSingleton'
+2020-10-26 20:47:57,148 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] ConstructorResolver.java:805 - Autowiring by type from bean name 'configPropsSingleton' via factory method to bean named 'envCopy'
+2020-10-26 20:47:57,149 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] ConstructorResolver.java:805 - Autowiring by type from bean name 'configPropsSingleton' via factory method to bean named 'org.springframework.beans.factory.support.DefaultListableBeanFactory@158d255c'
+2020-10-26 20:47:57,150 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] ConstructorResolver.java:805 - Autowiring by type from bean name 'lazyEncryptablePropertyFilter' via factory method to bean named 'envCopy'
+2020-10-26 20:47:57,150 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] ConstructorResolver.java:805 - Autowiring by type from bean name 'lazyEncryptablePropertyFilter' via factory method to bean named 'org.springframework.beans.factory.support.DefaultListableBeanFactory@158d255c'
+2020-10-26 20:47:57,151 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] ConstructorResolver.java:805 - Autowiring by type from bean name 'lazyEncryptablePropertyFilter' via factory method to bean named 'configPropsSingleton'
+2020-10-26 20:47:57,325 [main] INFO  [c.u.j.EncryptablePropertySourceConverter] EncryptablePropertySourceConverter.java:38 - Converting PropertySource configurationProperties [org.springframework.boot.context.properties.source.ConfigurationPropertySourcesPropertySource] to AOP Proxy
+2020-10-26 20:47:57,327 [main] INFO  [c.u.j.EncryptablePropertySourceConverter] EncryptablePropertySourceConverter.java:38 - Converting PropertySource bootstrap [org.springframework.core.env.MapPropertySource] to EncryptableMapPropertySourceWrapper
+2020-10-26 20:47:57,328 [main] INFO  [c.u.j.EncryptablePropertySourceConverter] EncryptablePropertySourceConverter.java:38 - Converting PropertySource systemProperties [org.springframework.core.env.PropertiesPropertySource] to EncryptableMapPropertySourceWrapper
+2020-10-26 20:47:57,328 [main] INFO  [c.u.j.EncryptablePropertySourceConverter] EncryptablePropertySourceConverter.java:38 - Converting PropertySource systemEnvironment [org.springframework.boot.env.SystemEnvironmentPropertySourceEnvironmentPostProcessor$OriginAwareSystemEnvironmentPropertySource] to EncryptableMapPropertySourceWrapper
+2020-10-26 20:47:57,333 [main] INFO  [c.u.j.EncryptablePropertySourceConverter] EncryptablePropertySourceConverter.java:38 - Converting PropertySource random [org.springframework.boot.env.RandomValuePropertySource] to EncryptablePropertySourceWrapper
+2020-10-26 20:47:57,333 [main] INFO  [c.u.j.EncryptablePropertySourceConverter] EncryptablePropertySourceConverter.java:38 - Converting PropertySource springCloudClientHostInfo [org.springframework.core.env.MapPropertySource] to EncryptableMapPropertySourceWrapper
+2020-10-26 20:47:57,334 [main] INFO  [c.u.j.EncryptablePropertySourceConverter] EncryptablePropertySourceConverter.java:38 - Converting PropertySource applicationConfig: [classpath:/bootstrap.yml] [org.springframework.boot.env.OriginTrackedMapPropertySource] to EncryptableMapPropertySourceWrapper
+2020-10-26 20:47:57,357 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] DefaultSingletonBeanRegistry.java:225 - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerProcessor'
+2020-10-26 20:47:57,362 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] DefaultSingletonBeanRegistry.java:225 - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerFactory'
+2020-10-26 20:47:57,366 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] DefaultSingletonBeanRegistry.java:225 - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalAutowiredAnnotationProcessor'
+2020-10-26 20:47:57,371 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] DefaultSingletonBeanRegistry.java:225 - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalCommonAnnotationProcessor'
+2020-10-26 20:47:57,385 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] DefaultSingletonBeanRegistry.java:225 - Creating shared instance of singleton bean 'org.springframework.boot.context.properties.ConfigurationPropertiesBindingPostProcessor'
+2020-10-26 20:47:57,386 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] DefaultSingletonBeanRegistry.java:225 - Creating shared instance of singleton bean 'org.springframework.boot.context.internalConfigurationPropertiesBinder'
+2020-10-26 20:47:57,386 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] DefaultSingletonBeanRegistry.java:225 - Creating shared instance of singleton bean 'org.springframework.boot.context.internalConfigurationPropertiesBinderFactory'
+2020-10-26 20:47:57,394 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] DefaultSingletonBeanRegistry.java:225 - Creating shared instance of singleton bean 'configurationPropertiesBeans'
+2020-10-26 20:47:57,423 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] DefaultSingletonBeanRegistry.java:225 - Creating shared instance of singleton bean 'bootstrapImportSelectorConfiguration'
+2020-10-26 20:47:57,428 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] DefaultSingletonBeanRegistry.java:225 - Creating shared instance of singleton bean 'com.ulisesbocchio.jasyptspringboot.configuration.CachingConfiguration'
+2020-10-26 20:47:57,431 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] DefaultSingletonBeanRegistry.java:225 - Creating shared instance of singleton bean 'refreshScopeRefreshedEventListener'
+2020-10-26 20:47:57,433 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] ConstructorResolver.java:805 - Autowiring by type from bean name 'refreshScopeRefreshedEventListener' via factory method to bean named 'environment'
+2020-10-26 20:47:57,438 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] DefaultSingletonBeanRegistry.java:225 - Creating shared instance of singleton bean 'com.ulisesbocchio.jasyptspringboot.configuration.EnableEncryptablePropertiesConfiguration'
+2020-10-26 20:47:57,439 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] DefaultSingletonBeanRegistry.java:225 - Creating shared instance of singleton bean 'com.ulisesbocchio.jasyptspringboot.JasyptSpringCloudBootstrapConfiguration'
+2020-10-26 20:47:57,441 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] DefaultSingletonBeanRegistry.java:225 - Creating shared instance of singleton bean 'com.alibaba.cloud.nacos.NacosConfigBootstrapConfiguration'
+2020-10-26 20:47:57,442 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] DefaultSingletonBeanRegistry.java:225 - Creating shared instance of singleton bean 'nacosConfigProperties'
+2020-10-26 20:47:57,479 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] DefaultSingletonBeanRegistry.java:225 - Creating shared instance of singleton bean 'org.springframework.boot.context.properties.BoundConfigurationProperties'
+2020-10-26 20:47:57,510 [main] INFO  [c.u.j.filter.DefaultLazyPropertyFilter] DefaultLazyPropertyFilter.java:31 - Property Filter custom Bean not found with name 'encryptablePropertyFilter'. Initializing Default Property Filter
+2020-10-26 20:47:57,524 [main] INFO  [c.u.j.resolver.DefaultLazyPropertyResolver] DefaultLazyPropertyResolver.java:31 - Property Resolver custom Bean not found with name 'encryptablePropertyResolver'. Initializing Default Property Resolver
+2020-10-26 20:47:57,527 [main] INFO  [c.u.j.detector.DefaultLazyPropertyDetector] DefaultLazyPropertyDetector.java:30 - Property Detector custom Bean not found with name 'encryptablePropertyDetector'. Initializing Default Property Detector
+2020-10-26 20:47:57,532 [main] DEBUG [o.s.core.env.PropertySourcesPropertyResolver] PropertySourcesPropertyResolver.java:115 - Found key 'spring.cloud.nacos.discovery.server-addr' in PropertySource 'configurationProperties' with value of type String
+2020-10-26 20:47:57,539 [main] DEBUG [o.s.core.env.PropertySourcesPropertyResolver] PropertySourcesPropertyResolver.java:115 - Found key 'spring.profiles.active' in PropertySource 'configurationProperties' with value of type String
+2020-10-26 20:47:57,540 [main] DEBUG [o.s.core.env.PropertySourcesPropertyResolver] PropertySourcesPropertyResolver.java:115 - Found key 'spring.cloud.nacos.config.file-extension' in PropertySource 'configurationProperties' with value of type String
+2020-10-26 20:47:57,546 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] DefaultSingletonBeanRegistry.java:225 - Creating shared instance of singleton bean 'nacosConfigManager'
+2020-10-26 20:47:57,547 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] ConstructorResolver.java:805 - Autowiring by type from bean name 'nacosConfigManager' via factory method to bean named 'nacosConfigProperties'
+2020-10-26 20:47:57,555 [main] DEBUG [o.s.core.env.PropertySourcesPropertyResolver] PropertySourcesPropertyResolver.java:115 - Found key 'spring.cloud.nacos.discovery.server-addr' in PropertySource 'configurationProperties' with value of type String
+2020-10-26 20:47:57,556 [main] DEBUG [o.s.core.env.PropertySourcesPropertyResolver] PropertySourcesPropertyResolver.java:115 - Found key 'spring.profiles.active' in PropertySource 'configurationProperties' with value of type String
+2020-10-26 20:47:57,556 [main] DEBUG [o.s.core.env.PropertySourcesPropertyResolver] PropertySourcesPropertyResolver.java:115 - Found key 'spring.cloud.nacos.config.file-extension' in PropertySource 'configurationProperties' with value of type String
+2020-10-26 20:47:57,751 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] DefaultSingletonBeanRegistry.java:225 - Creating shared instance of singleton bean 'nacosPropertySourceLocator'
+2020-10-26 20:47:57,752 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] ConstructorResolver.java:805 - Autowiring by type from bean name 'nacosPropertySourceLocator' via factory method to bean named 'nacosConfigManager'
+2020-10-26 20:47:57,758 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] DefaultSingletonBeanRegistry.java:225 - Creating shared instance of singleton bean 'org.springframework.cloud.bootstrap.config.PropertySourceBootstrapConfiguration'
+2020-10-26 20:47:57,763 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] DefaultSingletonBeanRegistry.java:225 - Creating shared instance of singleton bean 'org.springframework.boot.context.properties.ConfigurationBeanFactoryMetadata'
+2020-10-26 20:47:57,763 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] DefaultSingletonBeanRegistry.java:225 - Creating shared instance of singleton bean 'spring.cloud.config-org.springframework.cloud.bootstrap.config.PropertySourceBootstrapProperties'
+2020-10-26 20:47:57,766 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] DefaultSingletonBeanRegistry.java:225 - Creating shared instance of singleton bean 'org.springframework.cloud.bootstrap.encrypt.EncryptionBootstrapConfiguration'
+2020-10-26 20:47:57,770 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] DefaultSingletonBeanRegistry.java:225 - Creating shared instance of singleton bean 'encrypt-org.springframework.cloud.bootstrap.encrypt.KeyProperties'
+2020-10-26 20:47:57,774 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] DefaultSingletonBeanRegistry.java:225 - Creating shared instance of singleton bean 'environmentDecryptApplicationListener'
+2020-10-26 20:47:57,778 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] DefaultSingletonBeanRegistry.java:225 - Creating shared instance of singleton bean 'org.springframework.cloud.autoconfigure.ConfigurationPropertiesRebinderAutoConfiguration'
+2020-10-26 20:47:57,781 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] DefaultSingletonBeanRegistry.java:225 - Creating shared instance of singleton bean 'configurationPropertiesRebinder'
+2020-10-26 20:47:57,782 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] ConstructorResolver.java:805 - Autowiring by type from bean name 'configurationPropertiesRebinder' via factory method to bean named 'configurationPropertiesBeans'
+2020-10-26 20:47:57,797 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] DefaultSingletonBeanRegistry.java:225 - Creating shared instance of singleton bean 'org.springframework.boot.autoconfigure.context.PropertyPlaceholderAutoConfiguration'
+2020-10-26 20:47:57,799 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] DefaultSingletonBeanRegistry.java:225 - Creating shared instance of singleton bean 'org.springframework.cloud.util.random.CachedRandomPropertySourceAutoConfiguration'
+2020-10-26 20:47:57,823 [main] DEBUG [c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor] EnableEncryptablePropertiesBeanFactoryPostProcessor.java:64 - Application Event Raised: ApplicationPreparedEvent
+2020-10-26 20:47:57,824 [main] DEBUG [c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor] EnableEncryptablePropertiesBeanFactoryPostProcessor.java:64 - Application Event Raised: ApplicationPreparedEvent
+2020-10-26 20:47:57,830 [main] DEBUG [o.s.b.a.l.ConditionEvaluationReportLoggingListener] ConditionEvaluationReportLoggingListener.java:126 - 
+
+
+============================
+CONDITIONS EVALUATION REPORT
+============================
+
+
+Positive matches:
+-----------------
+
+   CachingConfiguration matched:
+      - @ConditionalOnClass found required class 'org.springframework.cloud.context.scope.refresh.RefreshScopeRefreshedEvent' (OnClassCondition)
+
+   ConfigurationPropertiesRebinderAutoConfiguration matched:
+      - @ConditionalOnBean (types: org.springframework.boot.context.properties.ConfigurationPropertiesBindingPostProcessor; SearchStrategy: all) found bean 'org.springframework.boot.context.properties.ConfigurationPropertiesBindingPostProcessor' (OnBeanCondition)
+
+   ConfigurationPropertiesRebinderAutoConfiguration#configurationPropertiesBeans matched:
+      - @ConditionalOnMissingBean (types: org.springframework.cloud.context.properties.ConfigurationPropertiesBeans; SearchStrategy: current) did not find any beans (OnBeanCondition)
+
+   ConfigurationPropertiesRebinderAutoConfiguration#configurationPropertiesRebinder matched:
+      - @ConditionalOnMissingBean (types: org.springframework.cloud.context.properties.ConfigurationPropertiesRebinder; SearchStrategy: current) did not find any beans (OnBeanCondition)
+
+   EncryptionBootstrapConfiguration matched:
+      - @ConditionalOnClass found required class 'org.springframework.security.crypto.encrypt.TextEncryptor' (OnClassCondition)
+
+   JasyptSpringCloudBootstrapConfiguration matched:
+      - @ConditionalOnProperty (jasypt.encryptor.bootstrap=true) matched (OnPropertyCondition)
+
+   NacosConfigBootstrapConfiguration matched:
+      - @ConditionalOnProperty (spring.cloud.nacos.config.enabled) matched (OnPropertyCondition)
+
+   NacosConfigBootstrapConfiguration#nacosConfigManager matched:
+      - @ConditionalOnMissingBean (types: com.alibaba.cloud.nacos.NacosConfigManager; SearchStrategy: all) did not find any beans (OnBeanCondition)
+
+   NacosConfigBootstrapConfiguration#nacosConfigProperties matched:
+      - @ConditionalOnMissingBean (types: com.alibaba.cloud.nacos.NacosConfigProperties; SearchStrategy: all) did not find any beans (OnBeanCondition)
+
+   PropertyPlaceholderAutoConfiguration#propertySourcesPlaceholderConfigurer matched:
+      - @ConditionalOnMissingBean (types: org.springframework.context.support.PropertySourcesPlaceholderConfigurer; SearchStrategy: current) did not find any beans (OnBeanCondition)
+
+
+Negative matches:
+-----------------
+
+   EncryptionBootstrapConfiguration.RsaEncryptionConfiguration:
+      Did not match:
+         - Keystore nor key found in Environment (EncryptionBootstrapConfiguration.KeyCondition)
+      Matched:
+         - @ConditionalOnClass found required class 'org.springframework.security.rsa.crypto.RsaSecretEncryptor' (OnClassCondition)
+
+   EncryptionBootstrapConfiguration.VanillaEncryptionConfiguration:
+      Did not match:
+         - @ConditionalOnMissingClass found unwanted class 'org.springframework.security.rsa.crypto.RsaSecretEncryptor' (OnClassCondition)
+
+   NacosDiscoveryClientConfigServiceBootstrapConfiguration:
+      Did not match:
+         - @ConditionalOnClass did not find required class 'org.springframework.cloud.config.client.ConfigServicePropertySourceLocator' (OnClassCondition)
+
+
+Exclusions:
+-----------
+
+    None
+
+
+Unconditional classes:
+----------------------
+
+    None
+
+
+
+2020-10-26 20:47:57,831 [main] DEBUG [c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor] EnableEncryptablePropertiesBeanFactoryPostProcessor.java:64 - Application Event Raised: ContextRefreshedEvent
+2020-10-26 20:47:57,831 [main] DEBUG [c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor] EnableEncryptablePropertiesBeanFactoryPostProcessor.java:64 - Application Event Raised: ContextRefreshedEvent
+2020-10-26 20:47:57,835 [main] DEBUG [o.s.core.env.PropertySourcesPropertyResolver] PropertySourcesPropertyResolver.java:115 - Found key 'spring.liveBeansView.mbeanDomain' in PropertySource 'systemProperties' with value of type String
+2020-10-26 20:47:57,850 [main] DEBUG [c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor] EnableEncryptablePropertiesBeanFactoryPostProcessor.java:64 - Application Event Raised: ApplicationStartedEvent
+2020-10-26 20:47:57,850 [main] DEBUG [c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor] EnableEncryptablePropertiesBeanFactoryPostProcessor.java:64 - Application Event Raised: ApplicationStartedEvent
+2020-10-26 20:47:57,862 [main] DEBUG [c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor] EnableEncryptablePropertiesBeanFactoryPostProcessor.java:64 - Application Event Raised: AvailabilityChangeEvent
+2020-10-26 20:47:57,862 [main] DEBUG [c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor] EnableEncryptablePropertiesBeanFactoryPostProcessor.java:64 - Application Event Raised: AvailabilityChangeEvent
+2020-10-26 20:47:57,863 [main] DEBUG [c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor] EnableEncryptablePropertiesBeanFactoryPostProcessor.java:64 - Application Event Raised: ApplicationReadyEvent
+2020-10-26 20:47:57,866 [main] DEBUG [c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor] EnableEncryptablePropertiesBeanFactoryPostProcessor.java:64 - Application Event Raised: ApplicationReadyEvent
+2020-10-26 20:47:57,868 [main] DEBUG [c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor] EnableEncryptablePropertiesBeanFactoryPostProcessor.java:64 - Application Event Raised: AvailabilityChangeEvent
+2020-10-26 20:47:57,868 [main] DEBUG [c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor] EnableEncryptablePropertiesBeanFactoryPostProcessor.java:64 - Application Event Raised: AvailabilityChangeEvent
+2020-10-26 20:50:35,169 [main] DEBUG [o.s.b.c.l.ClasspathLoggingApplicationListener] ClasspathLoggingApplicationListener.java:51 - Application started with classpath: [file:/C:/Users/OvO/AppData/Local/Temp/classpath1435775333.jar, file:/C:/Users/OvO/AppData/Local/JetBrains/IntelliJIdea2020.1/groovyHotSwap/gragent.jar, file:/C:/Users/OvO/AppData/Local/JetBrains/IntelliJIdea2020.1/captureAgent/debugger-agent.jar]
+2020-10-26 20:50:35,180 [main] DEBUG [c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor] EnableEncryptablePropertiesBeanFactoryPostProcessor.java:64 - Application Event Raised: ApplicationEnvironmentPreparedEvent
+2020-10-26 20:50:35,355 [background-preinit] DEBUG [org.jboss.logging] LoggerProviders.java:152 - Logging Provider: org.jboss.logging.Log4j2LoggerProvider
+2020-10-26 20:50:35,357 [background-preinit] INFO  [org.hibernate.validator.internal.util.Version] Version.java:21 - HV000001: Hibernate Validator 6.1.5.Final
+2020-10-26 20:50:35,396 [main] DEBUG [o.s.core.env.PropertySourcesPropertyResolver] PropertySourcesPropertyResolver.java:115 - Found key 'spring.application.name' in PropertySource 'configurationProperties' with value of type String
+2020-10-26 20:50:35,396 [background-preinit] DEBUG [o.h.v.internal.xml.config.ValidationXmlParser] ValidationXmlParser.java:120 - Trying to load META-INF/validation.xml for XML based Validator configuration.
+2020-10-26 20:50:35,403 [background-preinit] DEBUG [o.h.v.internal.xml.config.ResourceLoaderHelper] ResourceLoaderHelper.java:60 - Trying to load META-INF/validation.xml via TCCL
+2020-10-26 20:50:35,405 [background-preinit] DEBUG [o.h.v.internal.xml.config.ResourceLoaderHelper] ResourceLoaderHelper.java:66 - Trying to load META-INF/validation.xml via Hibernate Validator's class loader
+2020-10-26 20:50:35,408 [background-preinit] DEBUG [o.h.v.internal.xml.config.ValidationXmlParser] ValidationXmlParser.java:127 - No META-INF/validation.xml found. Using annotation based configuration only.
+2020-10-26 20:50:35,413 [main] DEBUG [c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor] EnableEncryptablePropertiesBeanFactoryPostProcessor.java:64 - Application Event Raised: ApplicationContextInitializedEvent
+2020-10-26 20:50:35,414 [main] DEBUG [org.springframework.boot.SpringApplication] SpringApplication.java:679 - Loading source class org.springframework.cloud.bootstrap.BootstrapImportSelectorConfiguration
+2020-10-26 20:50:35,431 [background-preinit] DEBUG [o.h.v.i.engine.resolver.TraversableResolvers] TraversableResolvers.java:60 - Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+2020-10-26 20:50:35,505 [main] DEBUG [o.s.b.context.config.ConfigFileApplicationListener] DeferredLog.java:222 - Activated activeProfiles dev
+2020-10-26 20:50:35,506 [main] DEBUG [o.s.b.context.config.ConfigFileApplicationListener] DeferredLog.java:222 - Loaded config file 'file:/T:/workspace/github/project/github.pig/X/pig/pig-auth/out/production/resources/bootstrap.yml' (classpath:/bootstrap.yml)
+2020-10-26 20:50:35,508 [main] DEBUG [c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor] EnableEncryptablePropertiesBeanFactoryPostProcessor.java:64 - Application Event Raised: ApplicationPreparedEvent
+2020-10-26 20:50:35,508 [main] DEBUG [o.s.c.a.AnnotationConfigApplicationContext] AbstractApplicationContext.java:596 - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@76ba13c
+2020-10-26 20:50:35,531 [background-preinit] DEBUG [o.h.v.m.ResourceBundleMessageInterpolator] ResourceBundleMessageInterpolator.java:172 - Loaded expression factory via original TCCL
+2020-10-26 20:50:35,565 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] DefaultSingletonBeanRegistry.java:225 - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor'
+2020-10-26 20:50:35,617 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] DefaultSingletonBeanRegistry.java:225 - Creating shared instance of singleton bean 'org.springframework.boot.autoconfigure.internalCachingMetadataReaderFactory'
+2020-10-26 20:50:36,192 [background-preinit] DEBUG [o.h.v.i.engine.ValidatorFactoryConfigurationHelper] ValidatorFactoryConfigurationHelper.java:300 - HV000252: Using org.hibernate.validator.internal.engine.DefaultPropertyNodeNameProvider as property node name provider.
+2020-10-26 20:50:36,221 [background-preinit] DEBUG [o.h.v.i.engine.ValidatorFactoryConfigurationHelper] ValidatorFactoryConfigurationHelper.java:375 - HV000234: Using org.hibernate.validator.messageinterpolation.ResourceBundleMessageInterpolator as ValidatorFactory-scoped message interpolator.
+2020-10-26 20:50:36,221 [background-preinit] DEBUG [o.h.v.i.engine.ValidatorFactoryConfigurationHelper] ValidatorFactoryConfigurationHelper.java:376 - HV000234: Using org.hibernate.validator.internal.engine.resolver.TraverseAllTraversableResolver as ValidatorFactory-scoped traversable resolver.
+2020-10-26 20:50:36,222 [background-preinit] DEBUG [o.h.v.i.engine.ValidatorFactoryConfigurationHelper] ValidatorFactoryConfigurationHelper.java:377 - HV000234: Using org.hibernate.validator.internal.util.ExecutableParameterNameProvider as ValidatorFactory-scoped parameter name provider.
+2020-10-26 20:50:36,222 [background-preinit] DEBUG [o.h.v.i.engine.ValidatorFactoryConfigurationHelper] ValidatorFactoryConfigurationHelper.java:378 - HV000234: Using org.hibernate.validator.internal.engine.DefaultClockProvider as ValidatorFactory-scoped clock provider.
+2020-10-26 20:50:36,222 [background-preinit] DEBUG [o.h.v.i.engine.ValidatorFactoryConfigurationHelper] ValidatorFactoryConfigurationHelper.java:379 - HV000234: Using org.hibernate.validator.internal.engine.scripting.DefaultScriptEvaluatorFactory as ValidatorFactory-scoped script evaluator factory.
+2020-10-26 20:50:36,316 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] DefaultSingletonBeanRegistry.java:225 - Creating shared instance of singleton bean 'propertySourcesPlaceholderConfigurer'
+2020-10-26 20:50:36,330 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] DefaultSingletonBeanRegistry.java:225 - Creating shared instance of singleton bean 'enableEncryptablePropertySourcesPostProcessor'
+2020-10-26 20:50:36,349 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] ConstructorResolver.java:805 - Autowiring by type from bean name 'enableEncryptablePropertySourcesPostProcessor' via factory method to bean named 'environment'
+2020-10-26 20:50:36,350 [main] INFO  [c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor] EnableEncryptablePropertiesBeanFactoryPostProcessor.java:50 - Post-processing PropertySource instances
+2020-10-26 20:50:36,350 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] DefaultSingletonBeanRegistry.java:225 - Creating shared instance of singleton bean 'lazyEncryptablePropertyResolver'
+2020-10-26 20:50:36,351 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] DefaultSingletonBeanRegistry.java:225 - Creating shared instance of singleton bean 'com.ulisesbocchio.jasyptspringboot.configuration.EncryptablePropertyResolverConfiguration'
+2020-10-26 20:50:36,358 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] DefaultSingletonBeanRegistry.java:225 - Creating shared instance of singleton bean 'lazyEncryptablePropertyDetector'
+2020-10-26 20:50:36,359 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] DefaultSingletonBeanRegistry.java:225 - Creating shared instance of singleton bean 'envCopy'
+2020-10-26 20:50:36,360 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] ConstructorResolver.java:805 - Autowiring by type from bean name 'envCopy' via factory method to bean named 'environment'
+2020-10-26 20:50:36,400 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] ConstructorResolver.java:805 - Autowiring by type from bean name 'lazyEncryptablePropertyDetector' via factory method to bean named 'envCopy'
+2020-10-26 20:50:36,400 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] ConstructorResolver.java:805 - Autowiring by type from bean name 'lazyEncryptablePropertyDetector' via factory method to bean named 'org.springframework.beans.factory.support.DefaultListableBeanFactory@65f87a2c'
+2020-10-26 20:50:36,406 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] DefaultSingletonBeanRegistry.java:225 - Creating shared instance of singleton bean 'lazyJasyptStringEncryptor'
+2020-10-26 20:50:36,407 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] ConstructorResolver.java:805 - Autowiring by type from bean name 'lazyJasyptStringEncryptor' via factory method to bean named 'envCopy'
+2020-10-26 20:50:36,407 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] ConstructorResolver.java:805 - Autowiring by type from bean name 'lazyJasyptStringEncryptor' via factory method to bean named 'org.springframework.beans.factory.support.DefaultListableBeanFactory@65f87a2c'
+2020-10-26 20:50:36,413 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] ConstructorResolver.java:805 - Autowiring by type from bean name 'lazyEncryptablePropertyResolver' via factory method to bean named 'lazyEncryptablePropertyDetector'
+2020-10-26 20:50:36,413 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] ConstructorResolver.java:805 - Autowiring by type from bean name 'lazyEncryptablePropertyResolver' via factory method to bean named 'lazyJasyptStringEncryptor'
+2020-10-26 20:50:36,414 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] ConstructorResolver.java:805 - Autowiring by type from bean name 'lazyEncryptablePropertyResolver' via factory method to bean named 'org.springframework.beans.factory.support.DefaultListableBeanFactory@65f87a2c'
+2020-10-26 20:50:36,414 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] ConstructorResolver.java:805 - Autowiring by type from bean name 'lazyEncryptablePropertyResolver' via factory method to bean named 'envCopy'
+2020-10-26 20:50:36,420 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] DefaultSingletonBeanRegistry.java:225 - Creating shared instance of singleton bean 'lazyEncryptablePropertyFilter'
+2020-10-26 20:50:36,421 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] DefaultSingletonBeanRegistry.java:225 - Creating shared instance of singleton bean 'configPropsSingleton'
+2020-10-26 20:50:36,422 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] ConstructorResolver.java:805 - Autowiring by type from bean name 'configPropsSingleton' via factory method to bean named 'envCopy'
+2020-10-26 20:50:36,423 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] ConstructorResolver.java:805 - Autowiring by type from bean name 'configPropsSingleton' via factory method to bean named 'org.springframework.beans.factory.support.DefaultListableBeanFactory@65f87a2c'
+2020-10-26 20:50:36,424 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] ConstructorResolver.java:805 - Autowiring by type from bean name 'lazyEncryptablePropertyFilter' via factory method to bean named 'envCopy'
+2020-10-26 20:50:36,424 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] ConstructorResolver.java:805 - Autowiring by type from bean name 'lazyEncryptablePropertyFilter' via factory method to bean named 'org.springframework.beans.factory.support.DefaultListableBeanFactory@65f87a2c'
+2020-10-26 20:50:36,424 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] ConstructorResolver.java:805 - Autowiring by type from bean name 'lazyEncryptablePropertyFilter' via factory method to bean named 'configPropsSingleton'
+2020-10-26 20:50:36,570 [main] INFO  [c.u.j.EncryptablePropertySourceConverter] EncryptablePropertySourceConverter.java:38 - Converting PropertySource configurationProperties [org.springframework.boot.context.properties.source.ConfigurationPropertySourcesPropertySource] to AOP Proxy
+2020-10-26 20:50:36,571 [main] INFO  [c.u.j.EncryptablePropertySourceConverter] EncryptablePropertySourceConverter.java:38 - Converting PropertySource bootstrap [org.springframework.core.env.MapPropertySource] to EncryptableMapPropertySourceWrapper
+2020-10-26 20:50:36,572 [main] INFO  [c.u.j.EncryptablePropertySourceConverter] EncryptablePropertySourceConverter.java:38 - Converting PropertySource systemProperties [org.springframework.core.env.PropertiesPropertySource] to EncryptableMapPropertySourceWrapper
+2020-10-26 20:50:36,572 [main] INFO  [c.u.j.EncryptablePropertySourceConverter] EncryptablePropertySourceConverter.java:38 - Converting PropertySource systemEnvironment [org.springframework.boot.env.SystemEnvironmentPropertySourceEnvironmentPostProcessor$OriginAwareSystemEnvironmentPropertySource] to EncryptableMapPropertySourceWrapper
+2020-10-26 20:50:36,574 [main] INFO  [c.u.j.EncryptablePropertySourceConverter] EncryptablePropertySourceConverter.java:38 - Converting PropertySource random [org.springframework.boot.env.RandomValuePropertySource] to EncryptablePropertySourceWrapper
+2020-10-26 20:50:36,574 [main] INFO  [c.u.j.EncryptablePropertySourceConverter] EncryptablePropertySourceConverter.java:38 - Converting PropertySource springCloudClientHostInfo [org.springframework.core.env.MapPropertySource] to EncryptableMapPropertySourceWrapper
+2020-10-26 20:50:36,575 [main] INFO  [c.u.j.EncryptablePropertySourceConverter] EncryptablePropertySourceConverter.java:38 - Converting PropertySource applicationConfig: [classpath:/bootstrap.yml] [org.springframework.boot.env.OriginTrackedMapPropertySource] to EncryptableMapPropertySourceWrapper
+2020-10-26 20:50:36,594 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] DefaultSingletonBeanRegistry.java:225 - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerProcessor'
+2020-10-26 20:50:36,598 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] DefaultSingletonBeanRegistry.java:225 - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerFactory'
+2020-10-26 20:50:36,601 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] DefaultSingletonBeanRegistry.java:225 - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalAutowiredAnnotationProcessor'
+2020-10-26 20:50:36,605 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] DefaultSingletonBeanRegistry.java:225 - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalCommonAnnotationProcessor'
+2020-10-26 20:50:36,617 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] DefaultSingletonBeanRegistry.java:225 - Creating shared instance of singleton bean 'org.springframework.boot.context.properties.ConfigurationPropertiesBindingPostProcessor'
+2020-10-26 20:50:36,618 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] DefaultSingletonBeanRegistry.java:225 - Creating shared instance of singleton bean 'org.springframework.boot.context.internalConfigurationPropertiesBinder'
+2020-10-26 20:50:36,618 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] DefaultSingletonBeanRegistry.java:225 - Creating shared instance of singleton bean 'org.springframework.boot.context.internalConfigurationPropertiesBinderFactory'
+2020-10-26 20:50:36,627 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] DefaultSingletonBeanRegistry.java:225 - Creating shared instance of singleton bean 'configurationPropertiesBeans'
+2020-10-26 20:50:36,651 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] DefaultSingletonBeanRegistry.java:225 - Creating shared instance of singleton bean 'bootstrapImportSelectorConfiguration'
+2020-10-26 20:50:36,656 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] DefaultSingletonBeanRegistry.java:225 - Creating shared instance of singleton bean 'com.ulisesbocchio.jasyptspringboot.configuration.CachingConfiguration'
+2020-10-26 20:50:36,658 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] DefaultSingletonBeanRegistry.java:225 - Creating shared instance of singleton bean 'refreshScopeRefreshedEventListener'
+2020-10-26 20:50:36,660 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] ConstructorResolver.java:805 - Autowiring by type from bean name 'refreshScopeRefreshedEventListener' via factory method to bean named 'environment'
+2020-10-26 20:50:36,664 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] DefaultSingletonBeanRegistry.java:225 - Creating shared instance of singleton bean 'com.ulisesbocchio.jasyptspringboot.configuration.EnableEncryptablePropertiesConfiguration'
+2020-10-26 20:50:36,665 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] DefaultSingletonBeanRegistry.java:225 - Creating shared instance of singleton bean 'com.ulisesbocchio.jasyptspringboot.JasyptSpringCloudBootstrapConfiguration'
+2020-10-26 20:50:36,667 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] DefaultSingletonBeanRegistry.java:225 - Creating shared instance of singleton bean 'com.alibaba.cloud.nacos.NacosConfigBootstrapConfiguration'
+2020-10-26 20:50:36,669 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] DefaultSingletonBeanRegistry.java:225 - Creating shared instance of singleton bean 'nacosConfigProperties'
+2020-10-26 20:50:36,702 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] DefaultSingletonBeanRegistry.java:225 - Creating shared instance of singleton bean 'org.springframework.boot.context.properties.BoundConfigurationProperties'
+2020-10-26 20:50:36,725 [main] INFO  [c.u.j.filter.DefaultLazyPropertyFilter] DefaultLazyPropertyFilter.java:31 - Property Filter custom Bean not found with name 'encryptablePropertyFilter'. Initializing Default Property Filter
+2020-10-26 20:50:36,735 [main] INFO  [c.u.j.resolver.DefaultLazyPropertyResolver] DefaultLazyPropertyResolver.java:31 - Property Resolver custom Bean not found with name 'encryptablePropertyResolver'. Initializing Default Property Resolver
+2020-10-26 20:50:36,740 [main] INFO  [c.u.j.detector.DefaultLazyPropertyDetector] DefaultLazyPropertyDetector.java:30 - Property Detector custom Bean not found with name 'encryptablePropertyDetector'. Initializing Default Property Detector
+2020-10-26 20:50:36,744 [main] DEBUG [o.s.core.env.PropertySourcesPropertyResolver] PropertySourcesPropertyResolver.java:115 - Found key 'spring.cloud.nacos.discovery.server-addr' in PropertySource 'configurationProperties' with value of type String
+2020-10-26 20:50:36,753 [main] DEBUG [o.s.core.env.PropertySourcesPropertyResolver] PropertySourcesPropertyResolver.java:115 - Found key 'spring.profiles.active' in PropertySource 'configurationProperties' with value of type String
+2020-10-26 20:50:36,754 [main] DEBUG [o.s.core.env.PropertySourcesPropertyResolver] PropertySourcesPropertyResolver.java:115 - Found key 'spring.cloud.nacos.config.file-extension' in PropertySource 'configurationProperties' with value of type String
+2020-10-26 20:50:36,766 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] DefaultSingletonBeanRegistry.java:225 - Creating shared instance of singleton bean 'nacosConfigManager'
+2020-10-26 20:50:36,767 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] ConstructorResolver.java:805 - Autowiring by type from bean name 'nacosConfigManager' via factory method to bean named 'nacosConfigProperties'
+2020-10-26 20:50:36,776 [main] DEBUG [o.s.core.env.PropertySourcesPropertyResolver] PropertySourcesPropertyResolver.java:115 - Found key 'spring.cloud.nacos.discovery.server-addr' in PropertySource 'configurationProperties' with value of type String
+2020-10-26 20:50:36,776 [main] DEBUG [o.s.core.env.PropertySourcesPropertyResolver] PropertySourcesPropertyResolver.java:115 - Found key 'spring.profiles.active' in PropertySource 'configurationProperties' with value of type String
+2020-10-26 20:50:36,777 [main] DEBUG [o.s.core.env.PropertySourcesPropertyResolver] PropertySourcesPropertyResolver.java:115 - Found key 'spring.cloud.nacos.config.file-extension' in PropertySource 'configurationProperties' with value of type String
+2020-10-26 20:50:36,975 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] DefaultSingletonBeanRegistry.java:225 - Creating shared instance of singleton bean 'nacosPropertySourceLocator'
+2020-10-26 20:50:36,975 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] ConstructorResolver.java:805 - Autowiring by type from bean name 'nacosPropertySourceLocator' via factory method to bean named 'nacosConfigManager'
+2020-10-26 20:50:36,981 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] DefaultSingletonBeanRegistry.java:225 - Creating shared instance of singleton bean 'org.springframework.cloud.bootstrap.config.PropertySourceBootstrapConfiguration'
+2020-10-26 20:50:36,983 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] DefaultSingletonBeanRegistry.java:225 - Creating shared instance of singleton bean 'org.springframework.boot.context.properties.ConfigurationBeanFactoryMetadata'
+2020-10-26 20:50:36,984 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] DefaultSingletonBeanRegistry.java:225 - Creating shared instance of singleton bean 'spring.cloud.config-org.springframework.cloud.bootstrap.config.PropertySourceBootstrapProperties'
+2020-10-26 20:50:36,986 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] DefaultSingletonBeanRegistry.java:225 - Creating shared instance of singleton bean 'org.springframework.cloud.bootstrap.encrypt.EncryptionBootstrapConfiguration'
+2020-10-26 20:50:36,988 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] DefaultSingletonBeanRegistry.java:225 - Creating shared instance of singleton bean 'encrypt-org.springframework.cloud.bootstrap.encrypt.KeyProperties'
+2020-10-26 20:50:36,990 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] DefaultSingletonBeanRegistry.java:225 - Creating shared instance of singleton bean 'environmentDecryptApplicationListener'
+2020-10-26 20:50:36,992 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] DefaultSingletonBeanRegistry.java:225 - Creating shared instance of singleton bean 'org.springframework.cloud.autoconfigure.ConfigurationPropertiesRebinderAutoConfiguration'
+2020-10-26 20:50:36,994 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] DefaultSingletonBeanRegistry.java:225 - Creating shared instance of singleton bean 'configurationPropertiesRebinder'
+2020-10-26 20:50:36,995 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] ConstructorResolver.java:805 - Autowiring by type from bean name 'configurationPropertiesRebinder' via factory method to bean named 'configurationPropertiesBeans'
+2020-10-26 20:50:37,004 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] DefaultSingletonBeanRegistry.java:225 - Creating shared instance of singleton bean 'org.springframework.boot.autoconfigure.context.PropertyPlaceholderAutoConfiguration'
+2020-10-26 20:50:37,005 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] DefaultSingletonBeanRegistry.java:225 - Creating shared instance of singleton bean 'org.springframework.cloud.util.random.CachedRandomPropertySourceAutoConfiguration'
+2020-10-26 20:50:37,028 [main] DEBUG [c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor] EnableEncryptablePropertiesBeanFactoryPostProcessor.java:64 - Application Event Raised: ApplicationPreparedEvent
+2020-10-26 20:50:37,028 [main] DEBUG [c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor] EnableEncryptablePropertiesBeanFactoryPostProcessor.java:64 - Application Event Raised: ApplicationPreparedEvent
+2020-10-26 20:50:37,037 [main] DEBUG [o.s.b.a.l.ConditionEvaluationReportLoggingListener] ConditionEvaluationReportLoggingListener.java:126 - 
+
+
+============================
+CONDITIONS EVALUATION REPORT
+============================
+
+
+Positive matches:
+-----------------
+
+   CachingConfiguration matched:
+      - @ConditionalOnClass found required class 'org.springframework.cloud.context.scope.refresh.RefreshScopeRefreshedEvent' (OnClassCondition)
+
+   ConfigurationPropertiesRebinderAutoConfiguration matched:
+      - @ConditionalOnBean (types: org.springframework.boot.context.properties.ConfigurationPropertiesBindingPostProcessor; SearchStrategy: all) found bean 'org.springframework.boot.context.properties.ConfigurationPropertiesBindingPostProcessor' (OnBeanCondition)
+
+   ConfigurationPropertiesRebinderAutoConfiguration#configurationPropertiesBeans matched:
+      - @ConditionalOnMissingBean (types: org.springframework.cloud.context.properties.ConfigurationPropertiesBeans; SearchStrategy: current) did not find any beans (OnBeanCondition)
+
+   ConfigurationPropertiesRebinderAutoConfiguration#configurationPropertiesRebinder matched:
+      - @ConditionalOnMissingBean (types: org.springframework.cloud.context.properties.ConfigurationPropertiesRebinder; SearchStrategy: current) did not find any beans (OnBeanCondition)
+
+   EncryptionBootstrapConfiguration matched:
+      - @ConditionalOnClass found required class 'org.springframework.security.crypto.encrypt.TextEncryptor' (OnClassCondition)
+
+   JasyptSpringCloudBootstrapConfiguration matched:
+      - @ConditionalOnProperty (jasypt.encryptor.bootstrap=true) matched (OnPropertyCondition)
+
+   NacosConfigBootstrapConfiguration matched:
+      - @ConditionalOnProperty (spring.cloud.nacos.config.enabled) matched (OnPropertyCondition)
+
+   NacosConfigBootstrapConfiguration#nacosConfigManager matched:
+      - @ConditionalOnMissingBean (types: com.alibaba.cloud.nacos.NacosConfigManager; SearchStrategy: all) did not find any beans (OnBeanCondition)
+
+   NacosConfigBootstrapConfiguration#nacosConfigProperties matched:
+      - @ConditionalOnMissingBean (types: com.alibaba.cloud.nacos.NacosConfigProperties; SearchStrategy: all) did not find any beans (OnBeanCondition)
+
+   PropertyPlaceholderAutoConfiguration#propertySourcesPlaceholderConfigurer matched:
+      - @ConditionalOnMissingBean (types: org.springframework.context.support.PropertySourcesPlaceholderConfigurer; SearchStrategy: current) did not find any beans (OnBeanCondition)
+
+
+Negative matches:
+-----------------
+
+   EncryptionBootstrapConfiguration.RsaEncryptionConfiguration:
+      Did not match:
+         - Keystore nor key found in Environment (EncryptionBootstrapConfiguration.KeyCondition)
+      Matched:
+         - @ConditionalOnClass found required class 'org.springframework.security.rsa.crypto.RsaSecretEncryptor' (OnClassCondition)
+
+   EncryptionBootstrapConfiguration.VanillaEncryptionConfiguration:
+      Did not match:
+         - @ConditionalOnMissingClass found unwanted class 'org.springframework.security.rsa.crypto.RsaSecretEncryptor' (OnClassCondition)
+
+   NacosDiscoveryClientConfigServiceBootstrapConfiguration:
+      Did not match:
+         - @ConditionalOnClass did not find required class 'org.springframework.cloud.config.client.ConfigServicePropertySourceLocator' (OnClassCondition)
+
+
+Exclusions:
+-----------
+
+    None
+
+
+Unconditional classes:
+----------------------
+
+    None
+
+
+
+2020-10-26 20:50:37,037 [main] DEBUG [c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor] EnableEncryptablePropertiesBeanFactoryPostProcessor.java:64 - Application Event Raised: ContextRefreshedEvent
+2020-10-26 20:50:37,038 [main] DEBUG [c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor] EnableEncryptablePropertiesBeanFactoryPostProcessor.java:64 - Application Event Raised: ContextRefreshedEvent
+2020-10-26 20:50:37,043 [main] DEBUG [o.s.core.env.PropertySourcesPropertyResolver] PropertySourcesPropertyResolver.java:115 - Found key 'spring.liveBeansView.mbeanDomain' in PropertySource 'systemProperties' with value of type String
+2020-10-26 20:50:37,053 [main] DEBUG [c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor] EnableEncryptablePropertiesBeanFactoryPostProcessor.java:64 - Application Event Raised: ApplicationStartedEvent
+2020-10-26 20:50:37,053 [main] DEBUG [c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor] EnableEncryptablePropertiesBeanFactoryPostProcessor.java:64 - Application Event Raised: ApplicationStartedEvent
+2020-10-26 20:50:37,063 [main] DEBUG [c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor] EnableEncryptablePropertiesBeanFactoryPostProcessor.java:64 - Application Event Raised: AvailabilityChangeEvent
+2020-10-26 20:50:37,064 [main] DEBUG [c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor] EnableEncryptablePropertiesBeanFactoryPostProcessor.java:64 - Application Event Raised: AvailabilityChangeEvent
+2020-10-26 20:50:37,064 [main] DEBUG [c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor] EnableEncryptablePropertiesBeanFactoryPostProcessor.java:64 - Application Event Raised: ApplicationReadyEvent
+2020-10-26 20:50:37,064 [main] DEBUG [c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor] EnableEncryptablePropertiesBeanFactoryPostProcessor.java:64 - Application Event Raised: ApplicationReadyEvent
+2020-10-26 20:50:37,066 [main] DEBUG [c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor] EnableEncryptablePropertiesBeanFactoryPostProcessor.java:64 - Application Event Raised: AvailabilityChangeEvent
+2020-10-26 20:50:37,066 [main] DEBUG [c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor] EnableEncryptablePropertiesBeanFactoryPostProcessor.java:64 - Application Event Raised: AvailabilityChangeEvent
+2020-10-26 20:52:38,974 [main] DEBUG [o.s.b.c.l.ClasspathLoggingApplicationListener] ClasspathLoggingApplicationListener.java:51 - Application started with classpath: [file:/C:/Users/OvO/AppData/Local/Temp/classpath942219932.jar, file:/C:/Users/OvO/AppData/Local/JetBrains/IntelliJIdea2020.1/groovyHotSwap/gragent.jar, file:/C:/Users/OvO/AppData/Local/JetBrains/IntelliJIdea2020.1/captureAgent/debugger-agent.jar]
+2020-10-26 20:52:38,994 [main] DEBUG [c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor] EnableEncryptablePropertiesBeanFactoryPostProcessor.java:64 - Application Event Raised: ApplicationEnvironmentPreparedEvent
+2020-10-26 20:52:39,328 [background-preinit] DEBUG [org.jboss.logging] LoggerProviders.java:152 - Logging Provider: org.jboss.logging.Log4j2LoggerProvider
+2020-10-26 20:52:39,330 [background-preinit] INFO  [org.hibernate.validator.internal.util.Version] Version.java:21 - HV000001: Hibernate Validator 6.1.5.Final
+2020-10-26 20:52:39,388 [background-preinit] DEBUG [o.h.v.internal.xml.config.ValidationXmlParser] ValidationXmlParser.java:120 - Trying to load META-INF/validation.xml for XML based Validator configuration.
+2020-10-26 20:52:39,395 [main] DEBUG [o.s.core.env.PropertySourcesPropertyResolver] PropertySourcesPropertyResolver.java:115 - Found key 'spring.application.name' in PropertySource 'configurationProperties' with value of type String
+2020-10-26 20:52:39,400 [background-preinit] DEBUG [o.h.v.internal.xml.config.ResourceLoaderHelper] ResourceLoaderHelper.java:60 - Trying to load META-INF/validation.xml via TCCL
+2020-10-26 20:52:39,403 [background-preinit] DEBUG [o.h.v.internal.xml.config.ResourceLoaderHelper] ResourceLoaderHelper.java:66 - Trying to load META-INF/validation.xml via Hibernate Validator's class loader
+2020-10-26 20:52:39,406 [background-preinit] DEBUG [o.h.v.internal.xml.config.ValidationXmlParser] ValidationXmlParser.java:127 - No META-INF/validation.xml found. Using annotation based configuration only.
+2020-10-26 20:52:39,417 [main] DEBUG [c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor] EnableEncryptablePropertiesBeanFactoryPostProcessor.java:64 - Application Event Raised: ApplicationContextInitializedEvent
+2020-10-26 20:52:39,418 [main] DEBUG [org.springframework.boot.SpringApplication] SpringApplication.java:679 - Loading source class org.springframework.cloud.bootstrap.BootstrapImportSelectorConfiguration
+2020-10-26 20:52:39,437 [background-preinit] DEBUG [o.h.v.i.engine.resolver.TraversableResolvers] TraversableResolvers.java:60 - Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+2020-10-26 20:52:39,563 [main] DEBUG [o.s.b.context.config.ConfigFileApplicationListener] DeferredLog.java:222 - Activated activeProfiles dev
+2020-10-26 20:52:39,564 [main] DEBUG [o.s.b.context.config.ConfigFileApplicationListener] DeferredLog.java:222 - Loaded config file 'file:/T:/workspace/github/project/github.pig/X/pig/pig-auth/out/production/resources/bootstrap.yml' (classpath:/bootstrap.yml)
+2020-10-26 20:52:39,567 [main] DEBUG [c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor] EnableEncryptablePropertiesBeanFactoryPostProcessor.java:64 - Application Event Raised: ApplicationPreparedEvent
+2020-10-26 20:52:39,568 [main] DEBUG [o.s.c.a.AnnotationConfigApplicationContext] AbstractApplicationContext.java:596 - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@61526469
+2020-10-26 20:52:39,609 [background-preinit] DEBUG [o.h.v.m.ResourceBundleMessageInterpolator] ResourceBundleMessageInterpolator.java:172 - Loaded expression factory via original TCCL
+2020-10-26 20:52:39,652 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] DefaultSingletonBeanRegistry.java:225 - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor'
+2020-10-26 20:52:39,738 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] DefaultSingletonBeanRegistry.java:225 - Creating shared instance of singleton bean 'org.springframework.boot.autoconfigure.internalCachingMetadataReaderFactory'
+2020-10-26 20:52:40,774 [background-preinit] DEBUG [o.h.v.i.engine.ValidatorFactoryConfigurationHelper] ValidatorFactoryConfigurationHelper.java:300 - HV000252: Using org.hibernate.validator.internal.engine.DefaultPropertyNodeNameProvider as property node name provider.
+2020-10-26 20:52:40,830 [background-preinit] DEBUG [o.h.v.i.engine.ValidatorFactoryConfigurationHelper] ValidatorFactoryConfigurationHelper.java:375 - HV000234: Using org.hibernate.validator.messageinterpolation.ResourceBundleMessageInterpolator as ValidatorFactory-scoped message interpolator.
+2020-10-26 20:52:40,831 [background-preinit] DEBUG [o.h.v.i.engine.ValidatorFactoryConfigurationHelper] ValidatorFactoryConfigurationHelper.java:376 - HV000234: Using org.hibernate.validator.internal.engine.resolver.TraverseAllTraversableResolver as ValidatorFactory-scoped traversable resolver.
+2020-10-26 20:52:40,831 [background-preinit] DEBUG [o.h.v.i.engine.ValidatorFactoryConfigurationHelper] ValidatorFactoryConfigurationHelper.java:377 - HV000234: Using org.hibernate.validator.internal.util.ExecutableParameterNameProvider as ValidatorFactory-scoped parameter name provider.
+2020-10-26 20:52:40,832 [background-preinit] DEBUG [o.h.v.i.engine.ValidatorFactoryConfigurationHelper] ValidatorFactoryConfigurationHelper.java:378 - HV000234: Using org.hibernate.validator.internal.engine.DefaultClockProvider as ValidatorFactory-scoped clock provider.
+2020-10-26 20:52:40,833 [background-preinit] DEBUG [o.h.v.i.engine.ValidatorFactoryConfigurationHelper] ValidatorFactoryConfigurationHelper.java:379 - HV000234: Using org.hibernate.validator.internal.engine.scripting.DefaultScriptEvaluatorFactory as ValidatorFactory-scoped script evaluator factory.
+2020-10-26 20:52:41,064 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] DefaultSingletonBeanRegistry.java:225 - Creating shared instance of singleton bean 'propertySourcesPlaceholderConfigurer'
+2020-10-26 20:52:41,109 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] DefaultSingletonBeanRegistry.java:225 - Creating shared instance of singleton bean 'enableEncryptablePropertySourcesPostProcessor'
+2020-10-26 20:52:41,191 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] ConstructorResolver.java:805 - Autowiring by type from bean name 'enableEncryptablePropertySourcesPostProcessor' via factory method to bean named 'environment'
+2020-10-26 20:52:41,193 [main] INFO  [c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor] EnableEncryptablePropertiesBeanFactoryPostProcessor.java:50 - Post-processing PropertySource instances
+2020-10-26 20:52:41,194 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] DefaultSingletonBeanRegistry.java:225 - Creating shared instance of singleton bean 'lazyEncryptablePropertyResolver'
+2020-10-26 20:52:41,195 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] DefaultSingletonBeanRegistry.java:225 - Creating shared instance of singleton bean 'com.ulisesbocchio.jasyptspringboot.configuration.EncryptablePropertyResolverConfiguration'
+2020-10-26 20:52:41,216 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] DefaultSingletonBeanRegistry.java:225 - Creating shared instance of singleton bean 'lazyEncryptablePropertyDetector'
+2020-10-26 20:52:41,219 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] DefaultSingletonBeanRegistry.java:225 - Creating shared instance of singleton bean 'envCopy'
+2020-10-26 20:52:41,221 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] ConstructorResolver.java:805 - Autowiring by type from bean name 'envCopy' via factory method to bean named 'environment'
+2020-10-26 20:52:41,344 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] ConstructorResolver.java:805 - Autowiring by type from bean name 'lazyEncryptablePropertyDetector' via factory method to bean named 'envCopy'
+2020-10-26 20:52:41,345 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] ConstructorResolver.java:805 - Autowiring by type from bean name 'lazyEncryptablePropertyDetector' via factory method to bean named 'org.springframework.beans.factory.support.DefaultListableBeanFactory@5ed190be'
+2020-10-26 20:52:41,358 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] DefaultSingletonBeanRegistry.java:225 - Creating shared instance of singleton bean 'lazyJasyptStringEncryptor'
+2020-10-26 20:52:41,360 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] ConstructorResolver.java:805 - Autowiring by type from bean name 'lazyJasyptStringEncryptor' via factory method to bean named 'envCopy'
+2020-10-26 20:52:41,361 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] ConstructorResolver.java:805 - Autowiring by type from bean name 'lazyJasyptStringEncryptor' via factory method to bean named 'org.springframework.beans.factory.support.DefaultListableBeanFactory@5ed190be'
+2020-10-26 20:52:41,371 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] ConstructorResolver.java:805 - Autowiring by type from bean name 'lazyEncryptablePropertyResolver' via factory method to bean named 'lazyEncryptablePropertyDetector'
+2020-10-26 20:52:41,374 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] ConstructorResolver.java:805 - Autowiring by type from bean name 'lazyEncryptablePropertyResolver' via factory method to bean named 'lazyJasyptStringEncryptor'
+2020-10-26 20:52:41,375 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] ConstructorResolver.java:805 - Autowiring by type from bean name 'lazyEncryptablePropertyResolver' via factory method to bean named 'org.springframework.beans.factory.support.DefaultListableBeanFactory@5ed190be'
+2020-10-26 20:52:41,375 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] ConstructorResolver.java:805 - Autowiring by type from bean name 'lazyEncryptablePropertyResolver' via factory method to bean named 'envCopy'
+2020-10-26 20:52:41,386 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] DefaultSingletonBeanRegistry.java:225 - Creating shared instance of singleton bean 'lazyEncryptablePropertyFilter'
+2020-10-26 20:52:41,392 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] DefaultSingletonBeanRegistry.java:225 - Creating shared instance of singleton bean 'configPropsSingleton'
+2020-10-26 20:52:41,394 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] ConstructorResolver.java:805 - Autowiring by type from bean name 'configPropsSingleton' via factory method to bean named 'envCopy'
+2020-10-26 20:52:41,395 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] ConstructorResolver.java:805 - Autowiring by type from bean name 'configPropsSingleton' via factory method to bean named 'org.springframework.beans.factory.support.DefaultListableBeanFactory@5ed190be'
+2020-10-26 20:52:41,398 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] ConstructorResolver.java:805 - Autowiring by type from bean name 'lazyEncryptablePropertyFilter' via factory method to bean named 'envCopy'
+2020-10-26 20:52:41,399 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] ConstructorResolver.java:805 - Autowiring by type from bean name 'lazyEncryptablePropertyFilter' via factory method to bean named 'org.springframework.beans.factory.support.DefaultListableBeanFactory@5ed190be'
+2020-10-26 20:52:41,400 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] ConstructorResolver.java:805 - Autowiring by type from bean name 'lazyEncryptablePropertyFilter' via factory method to bean named 'configPropsSingleton'
+2020-10-26 20:52:41,956 [main] INFO  [c.u.j.EncryptablePropertySourceConverter] EncryptablePropertySourceConverter.java:38 - Converting PropertySource configurationProperties [org.springframework.boot.context.properties.source.ConfigurationPropertySourcesPropertySource] to AOP Proxy
+2020-10-26 20:52:41,960 [main] INFO  [c.u.j.EncryptablePropertySourceConverter] EncryptablePropertySourceConverter.java:38 - Converting PropertySource bootstrap [org.springframework.core.env.MapPropertySource] to EncryptableMapPropertySourceWrapper
+2020-10-26 20:52:41,961 [main] INFO  [c.u.j.EncryptablePropertySourceConverter] EncryptablePropertySourceConverter.java:38 - Converting PropertySource systemProperties [org.springframework.core.env.PropertiesPropertySource] to EncryptableMapPropertySourceWrapper
+2020-10-26 20:52:41,962 [main] INFO  [c.u.j.EncryptablePropertySourceConverter] EncryptablePropertySourceConverter.java:38 - Converting PropertySource systemEnvironment [org.springframework.boot.env.SystemEnvironmentPropertySourceEnvironmentPostProcessor$OriginAwareSystemEnvironmentPropertySource] to EncryptableMapPropertySourceWrapper
+2020-10-26 20:52:41,968 [main] INFO  [c.u.j.EncryptablePropertySourceConverter] EncryptablePropertySourceConverter.java:38 - Converting PropertySource random [org.springframework.boot.env.RandomValuePropertySource] to EncryptablePropertySourceWrapper
+2020-10-26 20:52:41,969 [main] INFO  [c.u.j.EncryptablePropertySourceConverter] EncryptablePropertySourceConverter.java:38 - Converting PropertySource springCloudClientHostInfo [org.springframework.core.env.MapPropertySource] to EncryptableMapPropertySourceWrapper
+2020-10-26 20:52:41,970 [main] INFO  [c.u.j.EncryptablePropertySourceConverter] EncryptablePropertySourceConverter.java:38 - Converting PropertySource applicationConfig: [classpath:/bootstrap.yml] [org.springframework.boot.env.OriginTrackedMapPropertySource] to EncryptableMapPropertySourceWrapper
+2020-10-26 20:52:42,033 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] DefaultSingletonBeanRegistry.java:225 - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerProcessor'
+2020-10-26 20:52:42,045 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] DefaultSingletonBeanRegistry.java:225 - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerFactory'
+2020-10-26 20:52:42,055 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] DefaultSingletonBeanRegistry.java:225 - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalAutowiredAnnotationProcessor'
+2020-10-26 20:52:42,065 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] DefaultSingletonBeanRegistry.java:225 - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalCommonAnnotationProcessor'
+2020-10-26 20:52:42,098 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] DefaultSingletonBeanRegistry.java:225 - Creating shared instance of singleton bean 'org.springframework.boot.context.properties.ConfigurationPropertiesBindingPostProcessor'
+2020-10-26 20:52:42,100 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] DefaultSingletonBeanRegistry.java:225 - Creating shared instance of singleton bean 'org.springframework.boot.context.internalConfigurationPropertiesBinder'
+2020-10-26 20:52:42,102 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] DefaultSingletonBeanRegistry.java:225 - Creating shared instance of singleton bean 'org.springframework.boot.context.internalConfigurationPropertiesBinderFactory'
+2020-10-26 20:52:42,130 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] DefaultSingletonBeanRegistry.java:225 - Creating shared instance of singleton bean 'configurationPropertiesBeans'
+2020-10-26 20:52:42,224 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] DefaultSingletonBeanRegistry.java:225 - Creating shared instance of singleton bean 'bootstrapImportSelectorConfiguration'
+2020-10-26 20:52:42,240 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] DefaultSingletonBeanRegistry.java:225 - Creating shared instance of singleton bean 'com.ulisesbocchio.jasyptspringboot.configuration.CachingConfiguration'
+2020-10-26 20:52:42,255 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] DefaultSingletonBeanRegistry.java:225 - Creating shared instance of singleton bean 'refreshScopeRefreshedEventListener'
+2020-10-26 20:52:42,265 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] ConstructorResolver.java:805 - Autowiring by type from bean name 'refreshScopeRefreshedEventListener' via factory method to bean named 'environment'
+2020-10-26 20:52:42,279 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] DefaultSingletonBeanRegistry.java:225 - Creating shared instance of singleton bean 'com.ulisesbocchio.jasyptspringboot.configuration.EnableEncryptablePropertiesConfiguration'
+2020-10-26 20:52:42,283 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] DefaultSingletonBeanRegistry.java:225 - Creating shared instance of singleton bean 'com.ulisesbocchio.jasyptspringboot.JasyptSpringCloudBootstrapConfiguration'
+2020-10-26 20:52:42,289 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] DefaultSingletonBeanRegistry.java:225 - Creating shared instance of singleton bean 'com.alibaba.cloud.nacos.NacosConfigBootstrapConfiguration'
+2020-10-26 20:52:42,292 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] DefaultSingletonBeanRegistry.java:225 - Creating shared instance of singleton bean 'nacosConfigProperties'
+2020-10-26 20:52:42,405 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] DefaultSingletonBeanRegistry.java:225 - Creating shared instance of singleton bean 'org.springframework.boot.context.properties.BoundConfigurationProperties'
+2020-10-26 20:52:42,481 [main] INFO  [c.u.j.filter.DefaultLazyPropertyFilter] DefaultLazyPropertyFilter.java:31 - Property Filter custom Bean not found with name 'encryptablePropertyFilter'. Initializing Default Property Filter
+2020-10-26 20:52:42,508 [main] INFO  [c.u.j.resolver.DefaultLazyPropertyResolver] DefaultLazyPropertyResolver.java:31 - Property Resolver custom Bean not found with name 'encryptablePropertyResolver'. Initializing Default Property Resolver
+2020-10-26 20:52:42,519 [main] INFO  [c.u.j.detector.DefaultLazyPropertyDetector] DefaultLazyPropertyDetector.java:30 - Property Detector custom Bean not found with name 'encryptablePropertyDetector'. Initializing Default Property Detector
+2020-10-26 20:52:42,533 [main] DEBUG [o.s.core.env.PropertySourcesPropertyResolver] PropertySourcesPropertyResolver.java:115 - Found key 'spring.cloud.nacos.discovery.server-addr' in PropertySource 'configurationProperties' with value of type String
+2020-10-26 20:52:42,572 [main] DEBUG [o.s.core.env.PropertySourcesPropertyResolver] PropertySourcesPropertyResolver.java:115 - Found key 'spring.profiles.active' in PropertySource 'configurationProperties' with value of type String
+2020-10-26 20:52:42,575 [main] DEBUG [o.s.core.env.PropertySourcesPropertyResolver] PropertySourcesPropertyResolver.java:115 - Found key 'spring.cloud.nacos.config.file-extension' in PropertySource 'configurationProperties' with value of type String
+2020-10-26 20:52:42,599 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] DefaultSingletonBeanRegistry.java:225 - Creating shared instance of singleton bean 'nacosConfigManager'
+2020-10-26 20:52:42,601 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] ConstructorResolver.java:805 - Autowiring by type from bean name 'nacosConfigManager' via factory method to bean named 'nacosConfigProperties'
+2020-10-26 20:52:42,622 [main] DEBUG [o.s.core.env.PropertySourcesPropertyResolver] PropertySourcesPropertyResolver.java:115 - Found key 'spring.cloud.nacos.discovery.server-addr' in PropertySource 'configurationProperties' with value of type String
+2020-10-26 20:52:42,623 [main] DEBUG [o.s.core.env.PropertySourcesPropertyResolver] PropertySourcesPropertyResolver.java:115 - Found key 'spring.profiles.active' in PropertySource 'configurationProperties' with value of type String
+2020-10-26 20:52:42,624 [main] DEBUG [o.s.core.env.PropertySourcesPropertyResolver] PropertySourcesPropertyResolver.java:115 - Found key 'spring.cloud.nacos.config.file-extension' in PropertySource 'configurationProperties' with value of type String
+2020-10-26 20:52:42,980 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] DefaultSingletonBeanRegistry.java:225 - Creating shared instance of singleton bean 'nacosPropertySourceLocator'
+2020-10-26 20:52:42,981 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] ConstructorResolver.java:805 - Autowiring by type from bean name 'nacosPropertySourceLocator' via factory method to bean named 'nacosConfigManager'
+2020-10-26 20:52:42,990 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] DefaultSingletonBeanRegistry.java:225 - Creating shared instance of singleton bean 'org.springframework.cloud.bootstrap.config.PropertySourceBootstrapConfiguration'
+2020-10-26 20:52:42,995 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] DefaultSingletonBeanRegistry.java:225 - Creating shared instance of singleton bean 'org.springframework.boot.context.properties.ConfigurationBeanFactoryMetadata'
+2020-10-26 20:52:42,997 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] DefaultSingletonBeanRegistry.java:225 - Creating shared instance of singleton bean 'spring.cloud.config-org.springframework.cloud.bootstrap.config.PropertySourceBootstrapProperties'
+2020-10-26 20:52:43,000 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] DefaultSingletonBeanRegistry.java:225 - Creating shared instance of singleton bean 'org.springframework.cloud.bootstrap.encrypt.EncryptionBootstrapConfiguration'
+2020-10-26 20:52:43,007 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] DefaultSingletonBeanRegistry.java:225 - Creating shared instance of singleton bean 'encrypt-org.springframework.cloud.bootstrap.encrypt.KeyProperties'
+2020-10-26 20:52:43,012 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] DefaultSingletonBeanRegistry.java:225 - Creating shared instance of singleton bean 'environmentDecryptApplicationListener'
+2020-10-26 20:52:43,017 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] DefaultSingletonBeanRegistry.java:225 - Creating shared instance of singleton bean 'org.springframework.cloud.autoconfigure.ConfigurationPropertiesRebinderAutoConfiguration'
+2020-10-26 20:52:43,022 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] DefaultSingletonBeanRegistry.java:225 - Creating shared instance of singleton bean 'configurationPropertiesRebinder'
+2020-10-26 20:52:43,023 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] ConstructorResolver.java:805 - Autowiring by type from bean name 'configurationPropertiesRebinder' via factory method to bean named 'configurationPropertiesBeans'
+2020-10-26 20:52:43,051 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] DefaultSingletonBeanRegistry.java:225 - Creating shared instance of singleton bean 'org.springframework.boot.autoconfigure.context.PropertyPlaceholderAutoConfiguration'
+2020-10-26 20:52:43,054 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] DefaultSingletonBeanRegistry.java:225 - Creating shared instance of singleton bean 'org.springframework.cloud.util.random.CachedRandomPropertySourceAutoConfiguration'
+2020-10-26 20:52:43,108 [main] DEBUG [c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor] EnableEncryptablePropertiesBeanFactoryPostProcessor.java:64 - Application Event Raised: ApplicationPreparedEvent
+2020-10-26 20:52:43,108 [main] DEBUG [c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor] EnableEncryptablePropertiesBeanFactoryPostProcessor.java:64 - Application Event Raised: ApplicationPreparedEvent
+2020-10-26 20:52:43,125 [main] DEBUG [o.s.b.a.l.ConditionEvaluationReportLoggingListener] ConditionEvaluationReportLoggingListener.java:126 - 
+
+
+============================
+CONDITIONS EVALUATION REPORT
+============================
+
+
+Positive matches:
+-----------------
+
+   CachingConfiguration matched:
+      - @ConditionalOnClass found required class 'org.springframework.cloud.context.scope.refresh.RefreshScopeRefreshedEvent' (OnClassCondition)
+
+   ConfigurationPropertiesRebinderAutoConfiguration matched:
+      - @ConditionalOnBean (types: org.springframework.boot.context.properties.ConfigurationPropertiesBindingPostProcessor; SearchStrategy: all) found bean 'org.springframework.boot.context.properties.ConfigurationPropertiesBindingPostProcessor' (OnBeanCondition)
+
+   ConfigurationPropertiesRebinderAutoConfiguration#configurationPropertiesBeans matched:
+      - @ConditionalOnMissingBean (types: org.springframework.cloud.context.properties.ConfigurationPropertiesBeans; SearchStrategy: current) did not find any beans (OnBeanCondition)
+
+   ConfigurationPropertiesRebinderAutoConfiguration#configurationPropertiesRebinder matched:
+      - @ConditionalOnMissingBean (types: org.springframework.cloud.context.properties.ConfigurationPropertiesRebinder; SearchStrategy: current) did not find any beans (OnBeanCondition)
+
+   EncryptionBootstrapConfiguration matched:
+      - @ConditionalOnClass found required class 'org.springframework.security.crypto.encrypt.TextEncryptor' (OnClassCondition)
+
+   JasyptSpringCloudBootstrapConfiguration matched:
+      - @ConditionalOnProperty (jasypt.encryptor.bootstrap=true) matched (OnPropertyCondition)
+
+   NacosConfigBootstrapConfiguration matched:
+      - @ConditionalOnProperty (spring.cloud.nacos.config.enabled) matched (OnPropertyCondition)
+
+   NacosConfigBootstrapConfiguration#nacosConfigManager matched:
+      - @ConditionalOnMissingBean (types: com.alibaba.cloud.nacos.NacosConfigManager; SearchStrategy: all) did not find any beans (OnBeanCondition)
+
+   NacosConfigBootstrapConfiguration#nacosConfigProperties matched:
+      - @ConditionalOnMissingBean (types: com.alibaba.cloud.nacos.NacosConfigProperties; SearchStrategy: all) did not find any beans (OnBeanCondition)
+
+   PropertyPlaceholderAutoConfiguration#propertySourcesPlaceholderConfigurer matched:
+      - @ConditionalOnMissingBean (types: org.springframework.context.support.PropertySourcesPlaceholderConfigurer; SearchStrategy: current) did not find any beans (OnBeanCondition)
+
+
+Negative matches:
+-----------------
+
+   EncryptionBootstrapConfiguration.RsaEncryptionConfiguration:
+      Did not match:
+         - Keystore nor key found in Environment (EncryptionBootstrapConfiguration.KeyCondition)
+      Matched:
+         - @ConditionalOnClass found required class 'org.springframework.security.rsa.crypto.RsaSecretEncryptor' (OnClassCondition)
+
+   EncryptionBootstrapConfiguration.VanillaEncryptionConfiguration:
+      Did not match:
+         - @ConditionalOnMissingClass found unwanted class 'org.springframework.security.rsa.crypto.RsaSecretEncryptor' (OnClassCondition)
+
+   NacosDiscoveryClientConfigServiceBootstrapConfiguration:
+      Did not match:
+         - @ConditionalOnClass did not find required class 'org.springframework.cloud.config.client.ConfigServicePropertySourceLocator' (OnClassCondition)
+
+
+Exclusions:
+-----------
+
+    None
+
+
+Unconditional classes:
+----------------------
+
+    None
+
+
+
+2020-10-26 20:52:43,126 [main] DEBUG [c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor] EnableEncryptablePropertiesBeanFactoryPostProcessor.java:64 - Application Event Raised: ContextRefreshedEvent
+2020-10-26 20:52:43,127 [main] DEBUG [c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor] EnableEncryptablePropertiesBeanFactoryPostProcessor.java:64 - Application Event Raised: ContextRefreshedEvent
+2020-10-26 20:52:43,137 [main] DEBUG [o.s.core.env.PropertySourcesPropertyResolver] PropertySourcesPropertyResolver.java:115 - Found key 'spring.liveBeansView.mbeanDomain' in PropertySource 'systemProperties' with value of type String
+2020-10-26 20:52:43,160 [main] DEBUG [c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor] EnableEncryptablePropertiesBeanFactoryPostProcessor.java:64 - Application Event Raised: ApplicationStartedEvent
+2020-10-26 20:52:43,160 [main] DEBUG [c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor] EnableEncryptablePropertiesBeanFactoryPostProcessor.java:64 - Application Event Raised: ApplicationStartedEvent
+2020-10-26 20:52:43,179 [main] DEBUG [c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor] EnableEncryptablePropertiesBeanFactoryPostProcessor.java:64 - Application Event Raised: AvailabilityChangeEvent
+2020-10-26 20:52:43,180 [main] DEBUG [c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor] EnableEncryptablePropertiesBeanFactoryPostProcessor.java:64 - Application Event Raised: AvailabilityChangeEvent
+2020-10-26 20:52:43,181 [main] DEBUG [c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor] EnableEncryptablePropertiesBeanFactoryPostProcessor.java:64 - Application Event Raised: ApplicationReadyEvent
+2020-10-26 20:52:43,182 [main] DEBUG [c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor] EnableEncryptablePropertiesBeanFactoryPostProcessor.java:64 - Application Event Raised: ApplicationReadyEvent
+2020-10-26 20:52:43,187 [main] DEBUG [c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor] EnableEncryptablePropertiesBeanFactoryPostProcessor.java:64 - Application Event Raised: AvailabilityChangeEvent
+2020-10-26 20:52:43,188 [main] DEBUG [c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor] EnableEncryptablePropertiesBeanFactoryPostProcessor.java:64 - Application Event Raised: AvailabilityChangeEvent
+2020-10-26 20:55:18,400 [main] DEBUG [o.s.b.c.l.ClasspathLoggingApplicationListener] ClasspathLoggingApplicationListener.java:51 - Application started with classpath: [file:/C:/Users/OvO/AppData/Local/Temp/classpath296547805.jar, file:/C:/Users/OvO/AppData/Local/JetBrains/IntelliJIdea2020.1/groovyHotSwap/gragent.jar, file:/C:/Users/OvO/AppData/Local/JetBrains/IntelliJIdea2020.1/captureAgent/debugger-agent.jar]
+2020-10-26 20:55:18,417 [main] DEBUG [c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor] EnableEncryptablePropertiesBeanFactoryPostProcessor.java:64 - Application Event Raised: ApplicationEnvironmentPreparedEvent
+2020-10-26 20:55:18,722 [background-preinit] DEBUG [org.jboss.logging] LoggerProviders.java:152 - Logging Provider: org.jboss.logging.Log4j2LoggerProvider
+2020-10-26 20:55:18,724 [background-preinit] INFO  [org.hibernate.validator.internal.util.Version] Version.java:21 - HV000001: Hibernate Validator 6.1.5.Final
+2020-10-26 20:55:18,782 [main] DEBUG [o.s.core.env.PropertySourcesPropertyResolver] PropertySourcesPropertyResolver.java:115 - Found key 'spring.application.name' in PropertySource 'configurationProperties' with value of type String
+2020-10-26 20:55:18,783 [background-preinit] DEBUG [o.h.v.internal.xml.config.ValidationXmlParser] ValidationXmlParser.java:120 - Trying to load META-INF/validation.xml for XML based Validator configuration.
+2020-10-26 20:55:18,793 [background-preinit] DEBUG [o.h.v.internal.xml.config.ResourceLoaderHelper] ResourceLoaderHelper.java:60 - Trying to load META-INF/validation.xml via TCCL
+2020-10-26 20:55:18,797 [background-preinit] DEBUG [o.h.v.internal.xml.config.ResourceLoaderHelper] ResourceLoaderHelper.java:66 - Trying to load META-INF/validation.xml via Hibernate Validator's class loader
+2020-10-26 20:55:18,801 [background-preinit] DEBUG [o.h.v.internal.xml.config.ValidationXmlParser] ValidationXmlParser.java:127 - No META-INF/validation.xml found. Using annotation based configuration only.
+2020-10-26 20:55:18,809 [main] DEBUG [c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor] EnableEncryptablePropertiesBeanFactoryPostProcessor.java:64 - Application Event Raised: ApplicationContextInitializedEvent
+2020-10-26 20:55:18,809 [main] DEBUG [org.springframework.boot.SpringApplication] SpringApplication.java:679 - Loading source class org.springframework.cloud.bootstrap.BootstrapImportSelectorConfiguration
+2020-10-26 20:55:18,836 [background-preinit] DEBUG [o.h.v.i.engine.resolver.TraversableResolvers] TraversableResolvers.java:60 - Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+2020-10-26 20:55:18,951 [main] DEBUG [o.s.b.context.config.ConfigFileApplicationListener] DeferredLog.java:222 - Activated activeProfiles dev
+2020-10-26 20:55:18,952 [main] DEBUG [o.s.b.context.config.ConfigFileApplicationListener] DeferredLog.java:222 - Loaded config file 'file:/T:/workspace/github/project/github.pig/X/pig/pig-auth/out/production/resources/bootstrap.yml' (classpath:/bootstrap.yml)
+2020-10-26 20:55:18,955 [main] DEBUG [c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor] EnableEncryptablePropertiesBeanFactoryPostProcessor.java:64 - Application Event Raised: ApplicationPreparedEvent
+2020-10-26 20:55:18,956 [main] DEBUG [o.s.c.a.AnnotationConfigApplicationContext] AbstractApplicationContext.java:596 - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@61526469
+2020-10-26 20:55:19,003 [background-preinit] DEBUG [o.h.v.m.ResourceBundleMessageInterpolator] ResourceBundleMessageInterpolator.java:172 - Loaded expression factory via original TCCL
+2020-10-26 20:55:19,046 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] DefaultSingletonBeanRegistry.java:225 - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor'
+2020-10-26 20:55:19,127 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] DefaultSingletonBeanRegistry.java:225 - Creating shared instance of singleton bean 'org.springframework.boot.autoconfigure.internalCachingMetadataReaderFactory'
+2020-10-26 20:55:20,052 [background-preinit] DEBUG [o.h.v.i.engine.ValidatorFactoryConfigurationHelper] ValidatorFactoryConfigurationHelper.java:300 - HV000252: Using org.hibernate.validator.internal.engine.DefaultPropertyNodeNameProvider as property node name provider.
+2020-10-26 20:55:20,098 [background-preinit] DEBUG [o.h.v.i.engine.ValidatorFactoryConfigurationHelper] ValidatorFactoryConfigurationHelper.java:375 - HV000234: Using org.hibernate.validator.messageinterpolation.ResourceBundleMessageInterpolator as ValidatorFactory-scoped message interpolator.
+2020-10-26 20:55:20,099 [background-preinit] DEBUG [o.h.v.i.engine.ValidatorFactoryConfigurationHelper] ValidatorFactoryConfigurationHelper.java:376 - HV000234: Using org.hibernate.validator.internal.engine.resolver.TraverseAllTraversableResolver as ValidatorFactory-scoped traversable resolver.
+2020-10-26 20:55:20,099 [background-preinit] DEBUG [o.h.v.i.engine.ValidatorFactoryConfigurationHelper] ValidatorFactoryConfigurationHelper.java:377 - HV000234: Using org.hibernate.validator.internal.util.ExecutableParameterNameProvider as ValidatorFactory-scoped parameter name provider.
+2020-10-26 20:55:20,100 [background-preinit] DEBUG [o.h.v.i.engine.ValidatorFactoryConfigurationHelper] ValidatorFactoryConfigurationHelper.java:378 - HV000234: Using org.hibernate.validator.internal.engine.DefaultClockProvider as ValidatorFactory-scoped clock provider.
+2020-10-26 20:55:20,100 [background-preinit] DEBUG [o.h.v.i.engine.ValidatorFactoryConfigurationHelper] ValidatorFactoryConfigurationHelper.java:379 - HV000234: Using org.hibernate.validator.internal.engine.scripting.DefaultScriptEvaluatorFactory as ValidatorFactory-scoped script evaluator factory.
+2020-10-26 20:55:20,267 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] DefaultSingletonBeanRegistry.java:225 - Creating shared instance of singleton bean 'propertySourcesPlaceholderConfigurer'
+2020-10-26 20:55:20,293 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] DefaultSingletonBeanRegistry.java:225 - Creating shared instance of singleton bean 'enableEncryptablePropertySourcesPostProcessor'
+2020-10-26 20:55:20,330 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] ConstructorResolver.java:805 - Autowiring by type from bean name 'enableEncryptablePropertySourcesPostProcessor' via factory method to bean named 'environment'
+2020-10-26 20:55:20,331 [main] INFO  [c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor] EnableEncryptablePropertiesBeanFactoryPostProcessor.java:50 - Post-processing PropertySource instances
+2020-10-26 20:55:20,332 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] DefaultSingletonBeanRegistry.java:225 - Creating shared instance of singleton bean 'lazyEncryptablePropertyResolver'
+2020-10-26 20:55:20,332 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] DefaultSingletonBeanRegistry.java:225 - Creating shared instance of singleton bean 'com.ulisesbocchio.jasyptspringboot.configuration.EncryptablePropertyResolverConfiguration'
+2020-10-26 20:55:20,346 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] DefaultSingletonBeanRegistry.java:225 - Creating shared instance of singleton bean 'lazyEncryptablePropertyDetector'
+2020-10-26 20:55:20,348 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] DefaultSingletonBeanRegistry.java:225 - Creating shared instance of singleton bean 'envCopy'
+2020-10-26 20:55:20,350 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] ConstructorResolver.java:805 - Autowiring by type from bean name 'envCopy' via factory method to bean named 'environment'
+2020-10-26 20:55:20,419 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] ConstructorResolver.java:805 - Autowiring by type from bean name 'lazyEncryptablePropertyDetector' via factory method to bean named 'envCopy'
+2020-10-26 20:55:20,420 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] ConstructorResolver.java:805 - Autowiring by type from bean name 'lazyEncryptablePropertyDetector' via factory method to bean named 'org.springframework.beans.factory.support.DefaultListableBeanFactory@5ed190be'
+2020-10-26 20:55:20,428 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] DefaultSingletonBeanRegistry.java:225 - Creating shared instance of singleton bean 'lazyJasyptStringEncryptor'
+2020-10-26 20:55:20,429 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] ConstructorResolver.java:805 - Autowiring by type from bean name 'lazyJasyptStringEncryptor' via factory method to bean named 'envCopy'
+2020-10-26 20:55:20,430 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] ConstructorResolver.java:805 - Autowiring by type from bean name 'lazyJasyptStringEncryptor' via factory method to bean named 'org.springframework.beans.factory.support.DefaultListableBeanFactory@5ed190be'
+2020-10-26 20:55:20,435 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] ConstructorResolver.java:805 - Autowiring by type from bean name 'lazyEncryptablePropertyResolver' via factory method to bean named 'lazyEncryptablePropertyDetector'
+2020-10-26 20:55:20,436 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] ConstructorResolver.java:805 - Autowiring by type from bean name 'lazyEncryptablePropertyResolver' via factory method to bean named 'lazyJasyptStringEncryptor'
+2020-10-26 20:55:20,436 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] ConstructorResolver.java:805 - Autowiring by type from bean name 'lazyEncryptablePropertyResolver' via factory method to bean named 'org.springframework.beans.factory.support.DefaultListableBeanFactory@5ed190be'
+2020-10-26 20:55:20,437 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] ConstructorResolver.java:805 - Autowiring by type from bean name 'lazyEncryptablePropertyResolver' via factory method to bean named 'envCopy'
+2020-10-26 20:55:20,442 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] DefaultSingletonBeanRegistry.java:225 - Creating shared instance of singleton bean 'lazyEncryptablePropertyFilter'
+2020-10-26 20:55:20,445 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] DefaultSingletonBeanRegistry.java:225 - Creating shared instance of singleton bean 'configPropsSingleton'
+2020-10-26 20:55:20,447 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] ConstructorResolver.java:805 - Autowiring by type from bean name 'configPropsSingleton' via factory method to bean named 'envCopy'
+2020-10-26 20:55:20,447 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] ConstructorResolver.java:805 - Autowiring by type from bean name 'configPropsSingleton' via factory method to bean named 'org.springframework.beans.factory.support.DefaultListableBeanFactory@5ed190be'
+2020-10-26 20:55:20,449 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] ConstructorResolver.java:805 - Autowiring by type from bean name 'lazyEncryptablePropertyFilter' via factory method to bean named 'envCopy'
+2020-10-26 20:55:20,450 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] ConstructorResolver.java:805 - Autowiring by type from bean name 'lazyEncryptablePropertyFilter' via factory method to bean named 'org.springframework.beans.factory.support.DefaultListableBeanFactory@5ed190be'
+2020-10-26 20:55:20,450 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] ConstructorResolver.java:805 - Autowiring by type from bean name 'lazyEncryptablePropertyFilter' via factory method to bean named 'configPropsSingleton'
+2020-10-26 20:55:20,691 [main] INFO  [c.u.j.EncryptablePropertySourceConverter] EncryptablePropertySourceConverter.java:38 - Converting PropertySource configurationProperties [org.springframework.boot.context.properties.source.ConfigurationPropertySourcesPropertySource] to AOP Proxy
+2020-10-26 20:55:20,695 [main] INFO  [c.u.j.EncryptablePropertySourceConverter] EncryptablePropertySourceConverter.java:38 - Converting PropertySource bootstrap [org.springframework.core.env.MapPropertySource] to EncryptableMapPropertySourceWrapper
+2020-10-26 20:55:20,695 [main] INFO  [c.u.j.EncryptablePropertySourceConverter] EncryptablePropertySourceConverter.java:38 - Converting PropertySource systemProperties [org.springframework.core.env.PropertiesPropertySource] to EncryptableMapPropertySourceWrapper
+2020-10-26 20:55:20,696 [main] INFO  [c.u.j.EncryptablePropertySourceConverter] EncryptablePropertySourceConverter.java:38 - Converting PropertySource systemEnvironment [org.springframework.boot.env.SystemEnvironmentPropertySourceEnvironmentPostProcessor$OriginAwareSystemEnvironmentPropertySource] to EncryptableMapPropertySourceWrapper
+2020-10-26 20:55:20,699 [main] INFO  [c.u.j.EncryptablePropertySourceConverter] EncryptablePropertySourceConverter.java:38 - Converting PropertySource random [org.springframework.boot.env.RandomValuePropertySource] to EncryptablePropertySourceWrapper
+2020-10-26 20:55:20,699 [main] INFO  [c.u.j.EncryptablePropertySourceConverter] EncryptablePropertySourceConverter.java:38 - Converting PropertySource springCloudClientHostInfo [org.springframework.core.env.MapPropertySource] to EncryptableMapPropertySourceWrapper
+2020-10-26 20:55:20,700 [main] INFO  [c.u.j.EncryptablePropertySourceConverter] EncryptablePropertySourceConverter.java:38 - Converting PropertySource applicationConfig: [classpath:/bootstrap.yml] [org.springframework.boot.env.OriginTrackedMapPropertySource] to EncryptableMapPropertySourceWrapper
+2020-10-26 20:55:20,734 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] DefaultSingletonBeanRegistry.java:225 - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerProcessor'
+2020-10-26 20:55:20,741 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] DefaultSingletonBeanRegistry.java:225 - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerFactory'
+2020-10-26 20:55:20,746 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] DefaultSingletonBeanRegistry.java:225 - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalAutowiredAnnotationProcessor'
+2020-10-26 20:55:20,752 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] DefaultSingletonBeanRegistry.java:225 - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalCommonAnnotationProcessor'
+2020-10-26 20:55:20,775 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] DefaultSingletonBeanRegistry.java:225 - Creating shared instance of singleton bean 'org.springframework.boot.context.properties.ConfigurationPropertiesBindingPostProcessor'
+2020-10-26 20:55:20,776 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] DefaultSingletonBeanRegistry.java:225 - Creating shared instance of singleton bean 'org.springframework.boot.context.internalConfigurationPropertiesBinder'
+2020-10-26 20:55:20,777 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] DefaultSingletonBeanRegistry.java:225 - Creating shared instance of singleton bean 'org.springframework.boot.context.internalConfigurationPropertiesBinderFactory'
+2020-10-26 20:55:20,787 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] DefaultSingletonBeanRegistry.java:225 - Creating shared instance of singleton bean 'configurationPropertiesBeans'
+2020-10-26 20:55:20,826 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] DefaultSingletonBeanRegistry.java:225 - Creating shared instance of singleton bean 'bootstrapImportSelectorConfiguration'
+2020-10-26 20:55:20,833 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] DefaultSingletonBeanRegistry.java:225 - Creating shared instance of singleton bean 'com.ulisesbocchio.jasyptspringboot.configuration.CachingConfiguration'
+2020-10-26 20:55:20,835 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] DefaultSingletonBeanRegistry.java:225 - Creating shared instance of singleton bean 'refreshScopeRefreshedEventListener'
+2020-10-26 20:55:20,839 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] ConstructorResolver.java:805 - Autowiring by type from bean name 'refreshScopeRefreshedEventListener' via factory method to bean named 'environment'
+2020-10-26 20:55:20,844 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] DefaultSingletonBeanRegistry.java:225 - Creating shared instance of singleton bean 'com.ulisesbocchio.jasyptspringboot.configuration.EnableEncryptablePropertiesConfiguration'
+2020-10-26 20:55:20,846 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] DefaultSingletonBeanRegistry.java:225 - Creating shared instance of singleton bean 'com.ulisesbocchio.jasyptspringboot.JasyptSpringCloudBootstrapConfiguration'
+2020-10-26 20:55:20,849 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] DefaultSingletonBeanRegistry.java:225 - Creating shared instance of singleton bean 'com.alibaba.cloud.nacos.NacosConfigBootstrapConfiguration'
+2020-10-26 20:55:20,850 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] DefaultSingletonBeanRegistry.java:225 - Creating shared instance of singleton bean 'nacosConfigProperties'
+2020-10-26 20:55:20,895 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] DefaultSingletonBeanRegistry.java:225 - Creating shared instance of singleton bean 'org.springframework.boot.context.properties.BoundConfigurationProperties'
+2020-10-26 20:55:20,943 [main] INFO  [c.u.j.filter.DefaultLazyPropertyFilter] DefaultLazyPropertyFilter.java:31 - Property Filter custom Bean not found with name 'encryptablePropertyFilter'. Initializing Default Property Filter
+2020-10-26 20:55:20,955 [main] INFO  [c.u.j.resolver.DefaultLazyPropertyResolver] DefaultLazyPropertyResolver.java:31 - Property Resolver custom Bean not found with name 'encryptablePropertyResolver'. Initializing Default Property Resolver
+2020-10-26 20:55:20,960 [main] INFO  [c.u.j.detector.DefaultLazyPropertyDetector] DefaultLazyPropertyDetector.java:30 - Property Detector custom Bean not found with name 'encryptablePropertyDetector'. Initializing Default Property Detector
+2020-10-26 20:55:20,972 [main] DEBUG [o.s.core.env.PropertySourcesPropertyResolver] PropertySourcesPropertyResolver.java:115 - Found key 'spring.profiles.active' in PropertySource 'configurationProperties' with value of type String
+2020-10-26 20:55:20,973 [main] DEBUG [o.s.core.env.PropertySourcesPropertyResolver] PropertySourcesPropertyResolver.java:115 - Found key 'spring.cloud.nacos.config.file-extension' in PropertySource 'configurationProperties' with value of type String
+2020-10-26 20:55:20,989 [main] DEBUG [o.s.core.env.PropertySourcesPropertyResolver] PropertySourcesPropertyResolver.java:115 - Found key 'spring.cloud.nacos.discovery.server-addr' in PropertySource 'configurationProperties' with value of type String
+2020-10-26 20:55:20,996 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] DefaultSingletonBeanRegistry.java:225 - Creating shared instance of singleton bean 'nacosConfigManager'
+2020-10-26 20:55:20,998 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] ConstructorResolver.java:805 - Autowiring by type from bean name 'nacosConfigManager' via factory method to bean named 'nacosConfigProperties'
+2020-10-26 20:55:21,018 [main] DEBUG [o.s.core.env.PropertySourcesPropertyResolver] PropertySourcesPropertyResolver.java:115 - Found key 'spring.cloud.nacos.discovery.server-addr' in PropertySource 'configurationProperties' with value of type String
+2020-10-26 20:55:21,019 [main] DEBUG [o.s.core.env.PropertySourcesPropertyResolver] PropertySourcesPropertyResolver.java:115 - Found key 'spring.profiles.active' in PropertySource 'configurationProperties' with value of type String
+2020-10-26 20:55:21,020 [main] DEBUG [o.s.core.env.PropertySourcesPropertyResolver] PropertySourcesPropertyResolver.java:115 - Found key 'spring.cloud.nacos.config.file-extension' in PropertySource 'configurationProperties' with value of type String
+2020-10-26 20:55:21,294 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] DefaultSingletonBeanRegistry.java:225 - Creating shared instance of singleton bean 'nacosPropertySourceLocator'
+2020-10-26 20:55:21,295 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] ConstructorResolver.java:805 - Autowiring by type from bean name 'nacosPropertySourceLocator' via factory method to bean named 'nacosConfigManager'
+2020-10-26 20:55:21,308 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] DefaultSingletonBeanRegistry.java:225 - Creating shared instance of singleton bean 'org.springframework.cloud.bootstrap.config.PropertySourceBootstrapConfiguration'
+2020-10-26 20:55:21,312 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] DefaultSingletonBeanRegistry.java:225 - Creating shared instance of singleton bean 'org.springframework.boot.context.properties.ConfigurationBeanFactoryMetadata'
+2020-10-26 20:55:21,313 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] DefaultSingletonBeanRegistry.java:225 - Creating shared instance of singleton bean 'spring.cloud.config-org.springframework.cloud.bootstrap.config.PropertySourceBootstrapProperties'
+2020-10-26 20:55:21,317 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] DefaultSingletonBeanRegistry.java:225 - Creating shared instance of singleton bean 'org.springframework.cloud.bootstrap.encrypt.EncryptionBootstrapConfiguration'
+2020-10-26 20:55:21,322 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] DefaultSingletonBeanRegistry.java:225 - Creating shared instance of singleton bean 'encrypt-org.springframework.cloud.bootstrap.encrypt.KeyProperties'
+2020-10-26 20:55:21,326 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] DefaultSingletonBeanRegistry.java:225 - Creating shared instance of singleton bean 'environmentDecryptApplicationListener'
+2020-10-26 20:55:21,330 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] DefaultSingletonBeanRegistry.java:225 - Creating shared instance of singleton bean 'org.springframework.cloud.autoconfigure.ConfigurationPropertiesRebinderAutoConfiguration'
+2020-10-26 20:55:21,332 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] DefaultSingletonBeanRegistry.java:225 - Creating shared instance of singleton bean 'configurationPropertiesRebinder'
+2020-10-26 20:55:21,333 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] ConstructorResolver.java:805 - Autowiring by type from bean name 'configurationPropertiesRebinder' via factory method to bean named 'configurationPropertiesBeans'
+2020-10-26 20:55:21,351 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] DefaultSingletonBeanRegistry.java:225 - Creating shared instance of singleton bean 'org.springframework.boot.autoconfigure.context.PropertyPlaceholderAutoConfiguration'
+2020-10-26 20:55:21,353 [main] DEBUG [o.s.b.factory.support.DefaultListableBeanFactory] DefaultSingletonBeanRegistry.java:225 - Creating shared instance of singleton bean 'org.springframework.cloud.util.random.CachedRandomPropertySourceAutoConfiguration'
+2020-10-26 20:55:21,391 [main] DEBUG [c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor] EnableEncryptablePropertiesBeanFactoryPostProcessor.java:64 - Application Event Raised: ApplicationPreparedEvent
+2020-10-26 20:55:21,391 [main] DEBUG [c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor] EnableEncryptablePropertiesBeanFactoryPostProcessor.java:64 - Application Event Raised: ApplicationPreparedEvent
+2020-10-26 20:55:21,402 [main] DEBUG [o.s.b.a.l.ConditionEvaluationReportLoggingListener] ConditionEvaluationReportLoggingListener.java:126 - 
+
+
+============================
+CONDITIONS EVALUATION REPORT
+============================
+
+
+Positive matches:
+-----------------
+
+   CachingConfiguration matched:
+      - @ConditionalOnClass found required class 'org.springframework.cloud.context.scope.refresh.RefreshScopeRefreshedEvent' (OnClassCondition)
+
+   ConfigurationPropertiesRebinderAutoConfiguration matched:
+      - @ConditionalOnBean (types: org.springframework.boot.context.properties.ConfigurationPropertiesBindingPostProcessor; SearchStrategy: all) found bean 'org.springframework.boot.context.properties.ConfigurationPropertiesBindingPostProcessor' (OnBeanCondition)
+
+   ConfigurationPropertiesRebinderAutoConfiguration#configurationPropertiesBeans matched:
+      - @ConditionalOnMissingBean (types: org.springframework.cloud.context.properties.ConfigurationPropertiesBeans; SearchStrategy: current) did not find any beans (OnBeanCondition)
+
+   ConfigurationPropertiesRebinderAutoConfiguration#configurationPropertiesRebinder matched:
+      - @ConditionalOnMissingBean (types: org.springframework.cloud.context.properties.ConfigurationPropertiesRebinder; SearchStrategy: current) did not find any beans (OnBeanCondition)
+
+   EncryptionBootstrapConfiguration matched:
+      - @ConditionalOnClass found required class 'org.springframework.security.crypto.encrypt.TextEncryptor' (OnClassCondition)
+
+   JasyptSpringCloudBootstrapConfiguration matched:
+      - @ConditionalOnProperty (jasypt.encryptor.bootstrap=true) matched (OnPropertyCondition)
+
+   NacosConfigBootstrapConfiguration matched:
+      - @ConditionalOnProperty (spring.cloud.nacos.config.enabled) matched (OnPropertyCondition)
+
+   NacosConfigBootstrapConfiguration#nacosConfigManager matched:
+      - @ConditionalOnMissingBean (types: com.alibaba.cloud.nacos.NacosConfigManager; SearchStrategy: all) did not find any beans (OnBeanCondition)
+
+   NacosConfigBootstrapConfiguration#nacosConfigProperties matched:
+      - @ConditionalOnMissingBean (types: com.alibaba.cloud.nacos.NacosConfigProperties; SearchStrategy: all) did not find any beans (OnBeanCondition)
+
+   PropertyPlaceholderAutoConfiguration#propertySourcesPlaceholderConfigurer matched:
+      - @ConditionalOnMissingBean (types: org.springframework.context.support.PropertySourcesPlaceholderConfigurer; SearchStrategy: current) did not find any beans (OnBeanCondition)
+
+
+Negative matches:
+-----------------
+
+   EncryptionBootstrapConfiguration.RsaEncryptionConfiguration:
+      Did not match:
+         - Keystore nor key found in Environment (EncryptionBootstrapConfiguration.KeyCondition)
+      Matched:
+         - @ConditionalOnClass found required class 'org.springframework.security.rsa.crypto.RsaSecretEncryptor' (OnClassCondition)
+
+   EncryptionBootstrapConfiguration.VanillaEncryptionConfiguration:
+      Did not match:
+         - @ConditionalOnMissingClass found unwanted class 'org.springframework.security.rsa.crypto.RsaSecretEncryptor' (OnClassCondition)
+
+   NacosDiscoveryClientConfigServiceBootstrapConfiguration:
+      Did not match:
+         - @ConditionalOnClass did not find required class 'org.springframework.cloud.config.client.ConfigServicePropertySourceLocator' (OnClassCondition)
+
+
+Exclusions:
+-----------
+
+    None
+
+
+Unconditional classes:
+----------------------
+
+    None
+
+
+
+2020-10-26 20:55:21,403 [main] DEBUG [c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor] EnableEncryptablePropertiesBeanFactoryPostProcessor.java:64 - Application Event Raised: ContextRefreshedEvent
+2020-10-26 20:55:21,404 [main] DEBUG [c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor] EnableEncryptablePropertiesBeanFactoryPostProcessor.java:64 - Application Event Raised: ContextRefreshedEvent
+2020-10-26 20:55:21,411 [main] DEBUG [o.s.core.env.PropertySourcesPropertyResolver] PropertySourcesPropertyResolver.java:115 - Found key 'spring.liveBeansView.mbeanDomain' in PropertySource 'systemProperties' with value of type String
+2020-10-26 20:55:21,426 [main] DEBUG [c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor] EnableEncryptablePropertiesBeanFactoryPostProcessor.java:64 - Application Event Raised: ApplicationStartedEvent
+2020-10-26 20:55:21,426 [main] DEBUG [c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor] EnableEncryptablePropertiesBeanFactoryPostProcessor.java:64 - Application Event Raised: ApplicationStartedEvent
+2020-10-26 20:55:21,438 [main] DEBUG [c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor] EnableEncryptablePropertiesBeanFactoryPostProcessor.java:64 - Application Event Raised: AvailabilityChangeEvent
+2020-10-26 20:55:21,439 [main] DEBUG [c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor] EnableEncryptablePropertiesBeanFactoryPostProcessor.java:64 - Application Event Raised: AvailabilityChangeEvent
+2020-10-26 20:55:21,440 [main] DEBUG [c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor] EnableEncryptablePropertiesBeanFactoryPostProcessor.java:64 - Application Event Raised: ApplicationReadyEvent
+2020-10-26 20:55:21,440 [main] DEBUG [c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor] EnableEncryptablePropertiesBeanFactoryPostProcessor.java:64 - Application Event Raised: ApplicationReadyEvent
+2020-10-26 20:55:21,443 [main] DEBUG [c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor] EnableEncryptablePropertiesBeanFactoryPostProcessor.java:64 - Application Event Raised: AvailabilityChangeEvent
+2020-10-26 20:55:21,444 [main] DEBUG [c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor] EnableEncryptablePropertiesBeanFactoryPostProcessor.java:64 - Application Event Raised: AvailabilityChangeEvent
+2020-10-26 20:58:28,753 [background-preinit] INFO  [org.hibernate.validator.internal.util.Version] Version.java:21 - HV000001: Hibernate Validator 6.1.5.Final
+2020-10-26 20:58:29,654 [main] INFO  [c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor] EnableEncryptablePropertiesBeanFactoryPostProcessor.java:50 - Post-processing PropertySource instances
+2020-10-26 20:58:29,834 [main] INFO  [c.u.j.EncryptablePropertySourceConverter] EncryptablePropertySourceConverter.java:38 - Converting PropertySource configurationProperties [org.springframework.boot.context.properties.source.ConfigurationPropertySourcesPropertySource] to AOP Proxy
+2020-10-26 20:58:29,836 [main] INFO  [c.u.j.EncryptablePropertySourceConverter] EncryptablePropertySourceConverter.java:38 - Converting PropertySource bootstrap [org.springframework.core.env.MapPropertySource] to EncryptableMapPropertySourceWrapper
+2020-10-26 20:58:29,836 [main] INFO  [c.u.j.EncryptablePropertySourceConverter] EncryptablePropertySourceConverter.java:38 - Converting PropertySource systemProperties [org.springframework.core.env.PropertiesPropertySource] to EncryptableMapPropertySourceWrapper
+2020-10-26 20:58:29,836 [main] INFO  [c.u.j.EncryptablePropertySourceConverter] EncryptablePropertySourceConverter.java:38 - Converting PropertySource systemEnvironment [org.springframework.boot.env.SystemEnvironmentPropertySourceEnvironmentPostProcessor$OriginAwareSystemEnvironmentPropertySource] to EncryptableMapPropertySourceWrapper
+2020-10-26 20:58:29,838 [main] INFO  [c.u.j.EncryptablePropertySourceConverter] EncryptablePropertySourceConverter.java:38 - Converting PropertySource random [org.springframework.boot.env.RandomValuePropertySource] to EncryptablePropertySourceWrapper
+2020-10-26 20:58:29,838 [main] INFO  [c.u.j.EncryptablePropertySourceConverter] EncryptablePropertySourceConverter.java:38 - Converting PropertySource springCloudClientHostInfo [org.springframework.core.env.MapPropertySource] to EncryptableMapPropertySourceWrapper
+2020-10-26 20:58:29,839 [main] INFO  [c.u.j.EncryptablePropertySourceConverter] EncryptablePropertySourceConverter.java:38 - Converting PropertySource applicationConfig: [classpath:/bootstrap.yml] [org.springframework.boot.env.OriginTrackedMapPropertySource] to EncryptableMapPropertySourceWrapper
+2020-10-26 20:58:29,960 [main] INFO  [c.u.j.filter.DefaultLazyPropertyFilter] DefaultLazyPropertyFilter.java:31 - Property Filter custom Bean not found with name 'encryptablePropertyFilter'. Initializing Default Property Filter
+2020-10-26 20:58:29,970 [main] INFO  [c.u.j.resolver.DefaultLazyPropertyResolver] DefaultLazyPropertyResolver.java:31 - Property Resolver custom Bean not found with name 'encryptablePropertyResolver'. Initializing Default Property Resolver
+2020-10-26 20:58:29,973 [main] INFO  [c.u.j.detector.DefaultLazyPropertyDetector] DefaultLazyPropertyDetector.java:30 - Property Detector custom Bean not found with name 'encryptablePropertyDetector'. Initializing Default Property Detector

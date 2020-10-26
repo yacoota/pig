@@ -1,0 +1,9 @@
+dependencies {
+    implementation "org.springframework:spring-webmvc"
+    implementation "org.springframework.boot:spring-boot-starter-web"
+    implementation "org.springframework.boot:spring-boot-starter-validation"
+    implementation "org.springframework.boot:spring-boot-starter-json"
+    implementation "org.springframework.boot:spring-boot-starter-data-redis"
+    implementation "javax.servlet:javax.servlet-api"
+    implementation "com.baomidou:mybatis-plus-extension:${mybatis_plus_version}"
+}

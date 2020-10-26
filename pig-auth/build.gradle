@@ -1,0 +1,17 @@
+dependencies {
+    compile project(':pig-common:pig-common-sentinel')
+    compile project(':pig-common:pig-common-security')
+    compile project(':pig-upms:pig-upms-api')
+
+    implementation "javax.servlet:javax.servlet-api:4.0.1"
+    implementation "org.springframework:spring-webmvc:5.2.9.RELEASE"
+    implementation "com.alibaba.cloud:spring-cloud-starter-alibaba-nacos-config"
+    implementation "com.alibaba.cloud:spring-cloud-starter-alibaba-nacos-discovery"
+    implementation "org.springframework.boot:spring-boot-starter-freemarker"
+    implementation "org.springframework.cloud:spring-cloud-starter-security"
+    implementation "org.springframework.security.oauth.boot:spring-security-oauth2-autoconfigure"
+    implementation "mysql:mysql-connector-java"
+    implementation "org.springframework.boot:spring-boot-starter-undertow"
+    implementation "org.springframework.boot:spring-boot-starter-data-redis"
+    implementation "com.baomidou:mybatis-plus-extension:${mybatis_plus_version}"
+}

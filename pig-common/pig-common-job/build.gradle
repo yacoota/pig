@@ -1,0 +1,3 @@
+dependencies {
+    implementation "com.xuxueli:xxl-job-core:${xxl_job_version}"
+}

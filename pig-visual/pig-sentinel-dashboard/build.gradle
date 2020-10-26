@@ -1,0 +1,17 @@
+dependencies {
+    compile project(':pig-common:pig-common-sentinel')
+
+    implementation "com.alibaba.csp:sentinel-core"
+    implementation "com.alibaba.csp:sentinel-web-servlet"
+    implementation "com.alibaba.csp:sentinel-transport-simple-http"
+    implementation "com.alibaba.csp:sentinel-parameter-flow-control"
+    implementation "com.alibaba.csp:sentinel-api-gateway-adapter-common"
+
+    implementation "org.springframework.boot:spring-boot-starter-web"
+    implementation "org.springframework.boot:spring-boot-starter-undertow"
+    implementation "org.apache.httpcomponents:httpcore:4.4.5"
+    implementation "org.apache.httpcomponents:httpclient:4.5.3"
+    implementation "org.apache.httpcomponents:httpasyncclient:4.1.3"
+    implementation "org.apache.httpcomponents:httpcore-nio:4.4.6"
+    implementation "commons-lang:commons-lang:2.6"
+}

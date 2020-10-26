@@ -1,0 +1,8 @@
+dependencies {
+    compile project(':pig-common:pig-common-core')
+    compile project(':pig-upms:pig-upms-api')
+
+    implementation "org.springframework.security:spring-security-core"
+    implementation "com.alibaba.cloud:spring-cloud-starter-alibaba-sentinel"
+    implementation "org.springframework.cloud:spring-cloud-starter-openfeign"
+}

@@ -1,0 +1,17 @@
+dependencies {
+    compile(project(':pig-common:pig-common-sentinel')) {
+        exclude module: "pig-common-core"
+    }
+    compile(project(':pig-common:pig-common-core')) {
+        exclude group: "org.springframework", module: "spring-webmvc"
+        exclude group: "org.springframework.boot", module: "spring-boot-starter-web"
+    }
+    compile project(':pig-common:pig-common-swagger')
+
+    implementation "org.springframework.cloud:spring-cloud-starter-gateway"
+    implementation "org.springframework.boot:spring-boot-starter-data-redis-reactive"
+    implementation "com.alibaba.cloud:spring-cloud-alibaba-sentinel-gateway"
+    implementation "com.alibaba.cloud:spring-cloud-starter-alibaba-nacos-config"
+    implementation "com.alibaba.cloud:spring-cloud-starter-alibaba-nacos-discovery"
+    implementation "com.pig4cloud.plugin:captcha-spring-boot-starter:${captcha_version}"
+}

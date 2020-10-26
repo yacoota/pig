@@ -1,0 +1,8 @@
+dependencies {
+    compile project(':pig-common:pig-common-core')
+    compile project(':pig-upms:pig-upms-api')
+
+    implementation "com.alibaba.csp:sentinel-annotation-aspectj:1.8.0"
+    implementation "org.springframework.security:spring-security-core"
+    implementation "org.springframework.security.oauth:spring-security-oauth2:2.3.4.RELEASE"
+}

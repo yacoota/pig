@@ -1,0 +1,10 @@
+dependencies {
+    compile project(':pig-common:pig-common-core')
+
+    implementation "org.springframework.boot:spring-boot-starter-validation"
+    implementation "org.springframework.boot:spring-boot-starter-json"
+    implementation "com.baomidou:mybatis-plus-extension:${mybatis_plus_version}"
+    implementation "io.swagger:swagger-annotations:${swagger_io_version}"
+
+    implementation "org.springframework.cloud:spring-cloud-starter-openfeign"
+}

@@ -1,0 +1,31 @@
+dependencies {
+    compile(project(':pig-common:pig-common-core')) {
+        exclude group: "org.springframework", module: "spring-webmvc"
+        exclude group: "org.springframework.boot", module: "spring-boot-starter-web"
+    }
+    compile(project(':pig-common:pig-common-log')) {
+        exclude module: "pig-common-core"
+        exclude module: "pig-upms-api"
+        exclude group: "org.springframework.security.oauth.boot", module: "spring-security-oauth2-autoconfigure"
+    }
+    compile(project(':pig-upms:pig-upms-api')) {
+        exclude module: "pig-common-core"
+        exclude group: "org.springframework.security.oauth.boot", module: "spring-security-oauth2-autoconfigure"
+    }
+    compile project(':pig-common:pig-common-mybatis')
+    compile project(':pig-common:pig-common-swagger')
+    compile(project(':pig-common:pig-common-sentinel')) {
+        exclude module: "pig-common-core"
+    }
+
+    compile project(':pig-common:pig-common-security')
+
+    implementation "io.springfox:springfox-swagger2:${swagger_fox_version}"
+    implementation "org.springframework.boot:spring-boot-starter-validation"
+    implementation "com.alibaba.cloud:spring-cloud-starter-alibaba-nacos-config"
+    implementation "com.alibaba.cloud:spring-cloud-starter-alibaba-nacos-discovery"
+    implementation "org.springframework.boot:spring-boot-starter-undertow"
+    implementation "org.springframework.cloud:spring-cloud-starter-security"
+    implementation "com.baomidou:mybatis-plus-extension:${mybatis_plus_version}"
+    implementation "com.baomidou:dynamic-datasource-spring-boot-starter:${dynamic_ds_version}"
+}
